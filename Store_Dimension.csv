@@ -1,0 +1,1201 @@
+StoreID,Manager,StoreName,Location
+1,Manager_1,Store_1,Phoenix
+2,Manager_2,Store_2,Los Angeles
+3,Manager_3,Store_3,Chicago
+4,Manager_4,Store_4,Chicago
+5,Manager_5,Store_5,Los Angeles
+6,Manager_6,Store_6,Los Angeles
+7,Manager_7,Store_7,Los Angeles
+8,Manager_8,Store_8,Phoenix
+9,Manager_9,Store_9,Chicago
+10,Manager_10,Store_10,Phoenix
+11,Manager_11,Store_11,Chicago
+12,Manager_12,Store_12,New York
+13,Manager_13,Store_13,Phoenix
+14,Manager_14,Store_14,New York
+15,Manager_15,Store_15,Los Angeles
+16,Manager_16,Store_16,Los Angeles
+17,Manager_17,Store_17,Houston
+18,Manager_18,Store_18,Phoenix
+19,Manager_19,Store_19,Phoenix
+20,Manager_20,Store_20,Los Angeles
+21,Manager_21,Store_21,Chicago
+22,Manager_22,Store_22,Los Angeles
+23,Manager_23,Store_23,Phoenix
+24,Manager_24,Store_24,Phoenix
+25,Manager_25,Store_25,Phoenix
+26,Manager_26,Store_26,New York
+27,Manager_27,Store_27,Houston
+28,Manager_28,Store_28,Los Angeles
+29,Manager_29,Store_29,Houston
+30,Manager_30,Store_30,Chicago
+31,Manager_31,Store_31,Phoenix
+32,Manager_32,Store_32,New York
+33,Manager_33,Store_33,New York
+34,Manager_34,Store_34,Houston
+35,Manager_35,Store_35,New York
+36,Manager_36,Store_36,Phoenix
+37,Manager_37,Store_37,Houston
+38,Manager_38,Store_38,Chicago
+39,Manager_39,Store_39,Chicago
+40,Manager_40,Store_40,New York
+41,Manager_41,Store_41,New York
+42,Manager_42,Store_42,Phoenix
+43,Manager_43,Store_43,New York
+44,Manager_44,Store_44,New York
+45,Manager_45,Store_45,Houston
+46,Manager_46,Store_46,Los Angeles
+47,Manager_47,Store_47,Chicago
+48,Manager_48,Store_48,Chicago
+49,Manager_49,Store_49,Los Angeles
+50,Manager_50,Store_50,Houston
+51,Manager_51,Store_51,New York
+52,Manager_52,Store_52,Chicago
+53,Manager_53,Store_53,Houston
+54,Manager_54,Store_54,New York
+55,Manager_55,Store_55,Los Angeles
+56,Manager_56,Store_56,Phoenix
+57,Manager_57,Store_57,New York
+58,Manager_58,Store_58,New York
+59,Manager_59,Store_59,Los Angeles
+60,Manager_60,Store_60,Chicago
+61,Manager_61,Store_61,Chicago
+62,Manager_62,Store_62,Phoenix
+63,Manager_63,Store_63,New York
+64,Manager_64,Store_64,Chicago
+65,Manager_65,Store_65,Chicago
+66,Manager_66,Store_66,New York
+67,Manager_67,Store_67,Phoenix
+68,Manager_68,Store_68,Phoenix
+69,Manager_69,Store_69,Los Angeles
+70,Manager_70,Store_70,Chicago
+71,Manager_71,Store_71,Chicago
+72,Manager_72,Store_72,Chicago
+73,Manager_73,Store_73,Chicago
+74,Manager_74,Store_74,Chicago
+75,Manager_75,Store_75,Los Angeles
+76,Manager_76,Store_76,Houston
+77,Manager_77,Store_77,Los Angeles
+78,Manager_78,Store_78,Houston
+79,Manager_79,Store_79,Houston
+80,Manager_80,Store_80,New York
+81,Manager_81,Store_81,New York
+82,Manager_82,Store_82,Phoenix
+83,Manager_83,Store_83,New York
+84,Manager_84,Store_84,Los Angeles
+85,Manager_85,Store_85,New York
+86,Manager_86,Store_86,New York
+87,Manager_87,Store_87,Houston
+88,Manager_88,Store_88,Los Angeles
+89,Manager_89,Store_89,New York
+90,Manager_90,Store_90,Chicago
+91,Manager_91,Store_91,Los Angeles
+92,Manager_92,Store_92,Chicago
+93,Manager_93,Store_93,Los Angeles
+94,Manager_94,Store_94,Houston
+95,Manager_95,Store_95,Phoenix
+96,Manager_96,Store_96,Los Angeles
+97,Manager_97,Store_97,Houston
+98,Manager_98,Store_98,Chicago
+99,Manager_99,Store_99,Phoenix
+100,Manager_100,Store_100,Chicago
+101,Manager_101,Store_101,Houston
+102,Manager_102,Store_102,Los Angeles
+103,Manager_103,Store_103,Houston
+104,Manager_104,Store_104,Houston
+105,Manager_105,Store_105,Los Angeles
+106,Manager_106,Store_106,Chicago
+107,Manager_107,Store_107,Phoenix
+108,Manager_108,Store_108,New York
+109,Manager_109,Store_109,Phoenix
+110,Manager_110,Store_110,Los Angeles
+111,Manager_111,Store_111,Phoenix
+112,Manager_112,Store_112,Los Angeles
+113,Manager_113,Store_113,New York
+114,Manager_114,Store_114,New York
+115,Manager_115,Store_115,New York
+116,Manager_116,Store_116,Los Angeles
+117,Manager_117,Store_117,Phoenix
+118,Manager_118,Store_118,Houston
+119,Manager_119,Store_119,New York
+120,Manager_120,Store_120,Phoenix
+121,Manager_121,Store_121,Chicago
+122,Manager_122,Store_122,Phoenix
+123,Manager_123,Store_123,New York
+124,Manager_124,Store_124,Phoenix
+125,Manager_125,Store_125,Chicago
+126,Manager_126,Store_126,Phoenix
+127,Manager_127,Store_127,Houston
+128,Manager_128,Store_128,Chicago
+129,Manager_129,Store_129,Los Angeles
+130,Manager_130,Store_130,Chicago
+131,Manager_131,Store_131,Houston
+132,Manager_132,Store_132,Phoenix
+133,Manager_133,Store_133,Houston
+134,Manager_134,Store_134,Houston
+135,Manager_135,Store_135,New York
+136,Manager_136,Store_136,Phoenix
+137,Manager_137,Store_137,Houston
+138,Manager_138,Store_138,Chicago
+139,Manager_139,Store_139,Houston
+140,Manager_140,Store_140,Chicago
+141,Manager_141,Store_141,Los Angeles
+142,Manager_142,Store_142,New York
+143,Manager_143,Store_143,Houston
+144,Manager_144,Store_144,Chicago
+145,Manager_145,Store_145,Houston
+146,Manager_146,Store_146,New York
+147,Manager_147,Store_147,Los Angeles
+148,Manager_148,Store_148,Phoenix
+149,Manager_149,Store_149,Houston
+150,Manager_150,Store_150,New York
+151,Manager_151,Store_151,Chicago
+152,Manager_152,Store_152,Los Angeles
+153,Manager_153,Store_153,Houston
+154,Manager_154,Store_154,Houston
+155,Manager_155,Store_155,Houston
+156,Manager_156,Store_156,Chicago
+157,Manager_157,Store_157,Houston
+158,Manager_158,Store_158,Chicago
+159,Manager_159,Store_159,Phoenix
+160,Manager_160,Store_160,Phoenix
+161,Manager_161,Store_161,Los Angeles
+162,Manager_162,Store_162,Houston
+163,Manager_163,Store_163,Houston
+164,Manager_164,Store_164,New York
+165,Manager_165,Store_165,Houston
+166,Manager_166,Store_166,Chicago
+167,Manager_167,Store_167,Phoenix
+168,Manager_168,Store_168,Chicago
+169,Manager_169,Store_169,Los Angeles
+170,Manager_170,Store_170,Chicago
+171,Manager_171,Store_171,New York
+172,Manager_172,Store_172,Los Angeles
+173,Manager_173,Store_173,Los Angeles
+174,Manager_174,Store_174,Chicago
+175,Manager_175,Store_175,Los Angeles
+176,Manager_176,Store_176,Phoenix
+177,Manager_177,Store_177,New York
+178,Manager_178,Store_178,New York
+179,Manager_179,Store_179,Houston
+180,Manager_180,Store_180,Houston
+181,Manager_181,Store_181,Los Angeles
+182,Manager_182,Store_182,Chicago
+183,Manager_183,Store_183,New York
+184,Manager_184,Store_184,Phoenix
+185,Manager_185,Store_185,New York
+186,Manager_186,Store_186,Phoenix
+187,Manager_187,Store_187,Chicago
+188,Manager_188,Store_188,Houston
+189,Manager_189,Store_189,Chicago
+190,Manager_190,Store_190,New York
+191,Manager_191,Store_191,Los Angeles
+192,Manager_192,Store_192,New York
+193,Manager_193,Store_193,New York
+194,Manager_194,Store_194,Houston
+195,Manager_195,Store_195,New York
+196,Manager_196,Store_196,Phoenix
+197,Manager_197,Store_197,Phoenix
+198,Manager_198,Store_198,Los Angeles
+199,Manager_199,Store_199,Phoenix
+200,Manager_200,Store_200,Los Angeles
+201,Manager_201,Store_201,Houston
+202,Manager_202,Store_202,New York
+203,Manager_203,Store_203,Phoenix
+204,Manager_204,Store_204,Chicago
+205,Manager_205,Store_205,Phoenix
+206,Manager_206,Store_206,New York
+207,Manager_207,Store_207,Houston
+208,Manager_208,Store_208,Chicago
+209,Manager_209,Store_209,New York
+210,Manager_210,Store_210,Chicago
+211,Manager_211,Store_211,New York
+212,Manager_212,Store_212,Phoenix
+213,Manager_213,Store_213,New York
+214,Manager_214,Store_214,Phoenix
+215,Manager_215,Store_215,Chicago
+216,Manager_216,Store_216,Houston
+217,Manager_217,Store_217,Phoenix
+218,Manager_218,Store_218,Phoenix
+219,Manager_219,Store_219,Chicago
+220,Manager_220,Store_220,Chicago
+221,Manager_221,Store_221,Houston
+222,Manager_222,Store_222,Phoenix
+223,Manager_223,Store_223,Houston
+224,Manager_224,Store_224,Los Angeles
+225,Manager_225,Store_225,Chicago
+226,Manager_226,Store_226,Phoenix
+227,Manager_227,Store_227,Chicago
+228,Manager_228,Store_228,Chicago
+229,Manager_229,Store_229,New York
+230,Manager_230,Store_230,Houston
+231,Manager_231,Store_231,New York
+232,Manager_232,Store_232,Phoenix
+233,Manager_233,Store_233,Phoenix
+234,Manager_234,Store_234,Los Angeles
+235,Manager_235,Store_235,New York
+236,Manager_236,Store_236,Chicago
+237,Manager_237,Store_237,Phoenix
+238,Manager_238,Store_238,New York
+239,Manager_239,Store_239,Chicago
+240,Manager_240,Store_240,Phoenix
+241,Manager_241,Store_241,Houston
+242,Manager_242,Store_242,Los Angeles
+243,Manager_243,Store_243,Los Angeles
+244,Manager_244,Store_244,Chicago
+245,Manager_245,Store_245,Chicago
+246,Manager_246,Store_246,Chicago
+247,Manager_247,Store_247,Chicago
+248,Manager_248,Store_248,Los Angeles
+249,Manager_249,Store_249,Phoenix
+250,Manager_250,Store_250,Houston
+251,Manager_251,Store_251,Phoenix
+252,Manager_252,Store_252,Chicago
+253,Manager_253,Store_253,Phoenix
+254,Manager_254,Store_254,Chicago
+255,Manager_255,Store_255,Phoenix
+256,Manager_256,Store_256,New York
+257,Manager_257,Store_257,Houston
+258,Manager_258,Store_258,Houston
+259,Manager_259,Store_259,Los Angeles
+260,Manager_260,Store_260,Chicago
+261,Manager_261,Store_261,Phoenix
+262,Manager_262,Store_262,Houston
+263,Manager_263,Store_263,New York
+264,Manager_264,Store_264,Phoenix
+265,Manager_265,Store_265,Houston
+266,Manager_266,Store_266,Phoenix
+267,Manager_267,Store_267,Chicago
+268,Manager_268,Store_268,Los Angeles
+269,Manager_269,Store_269,Chicago
+270,Manager_270,Store_270,New York
+271,Manager_271,Store_271,Los Angeles
+272,Manager_272,Store_272,Phoenix
+273,Manager_273,Store_273,New York
+274,Manager_274,Store_274,Phoenix
+275,Manager_275,Store_275,Los Angeles
+276,Manager_276,Store_276,Los Angeles
+277,Manager_277,Store_277,Houston
+278,Manager_278,Store_278,Houston
+279,Manager_279,Store_279,Phoenix
+280,Manager_280,Store_280,Los Angeles
+281,Manager_281,Store_281,Los Angeles
+282,Manager_282,Store_282,Phoenix
+283,Manager_283,Store_283,Houston
+284,Manager_284,Store_284,New York
+285,Manager_285,Store_285,Chicago
+286,Manager_286,Store_286,New York
+287,Manager_287,Store_287,Chicago
+288,Manager_288,Store_288,New York
+289,Manager_289,Store_289,Phoenix
+290,Manager_290,Store_290,New York
+291,Manager_291,Store_291,Phoenix
+292,Manager_292,Store_292,Phoenix
+293,Manager_293,Store_293,Los Angeles
+294,Manager_294,Store_294,Los Angeles
+295,Manager_295,Store_295,Phoenix
+296,Manager_296,Store_296,Los Angeles
+297,Manager_297,Store_297,New York
+298,Manager_298,Store_298,Chicago
+299,Manager_299,Store_299,Los Angeles
+300,Manager_300,Store_300,Phoenix
+301,Manager_301,Store_301,New York
+302,Manager_302,Store_302,Chicago
+303,Manager_303,Store_303,Los Angeles
+304,Manager_304,Store_304,Los Angeles
+305,Manager_305,Store_305,Phoenix
+306,Manager_306,Store_306,Phoenix
+307,Manager_307,Store_307,Houston
+308,Manager_308,Store_308,Chicago
+309,Manager_309,Store_309,New York
+310,Manager_310,Store_310,Phoenix
+311,Manager_311,Store_311,Los Angeles
+312,Manager_312,Store_312,Phoenix
+313,Manager_313,Store_313,New York
+314,Manager_314,Store_314,New York
+315,Manager_315,Store_315,Houston
+316,Manager_316,Store_316,New York
+317,Manager_317,Store_317,Phoenix
+318,Manager_318,Store_318,Los Angeles
+319,Manager_319,Store_319,Los Angeles
+320,Manager_320,Store_320,Phoenix
+321,Manager_321,Store_321,Chicago
+322,Manager_322,Store_322,New York
+323,Manager_323,Store_323,Chicago
+324,Manager_324,Store_324,New York
+325,Manager_325,Store_325,Houston
+326,Manager_326,Store_326,Los Angeles
+327,Manager_327,Store_327,Phoenix
+328,Manager_328,Store_328,Houston
+329,Manager_329,Store_329,Houston
+330,Manager_330,Store_330,Houston
+331,Manager_331,Store_331,New York
+332,Manager_332,Store_332,Los Angeles
+333,Manager_333,Store_333,New York
+334,Manager_334,Store_334,Los Angeles
+335,Manager_335,Store_335,Chicago
+336,Manager_336,Store_336,New York
+337,Manager_337,Store_337,Phoenix
+338,Manager_338,Store_338,Phoenix
+339,Manager_339,Store_339,Chicago
+340,Manager_340,Store_340,Los Angeles
+341,Manager_341,Store_341,Chicago
+342,Manager_342,Store_342,Phoenix
+343,Manager_343,Store_343,Phoenix
+344,Manager_344,Store_344,New York
+345,Manager_345,Store_345,Chicago
+346,Manager_346,Store_346,Los Angeles
+347,Manager_347,Store_347,Houston
+348,Manager_348,Store_348,Phoenix
+349,Manager_349,Store_349,Houston
+350,Manager_350,Store_350,Phoenix
+351,Manager_351,Store_351,Chicago
+352,Manager_352,Store_352,Phoenix
+353,Manager_353,Store_353,Chicago
+354,Manager_354,Store_354,Phoenix
+355,Manager_355,Store_355,Los Angeles
+356,Manager_356,Store_356,New York
+357,Manager_357,Store_357,Chicago
+358,Manager_358,Store_358,Chicago
+359,Manager_359,Store_359,Los Angeles
+360,Manager_360,Store_360,Los Angeles
+361,Manager_361,Store_361,Phoenix
+362,Manager_362,Store_362,Houston
+363,Manager_363,Store_363,Houston
+364,Manager_364,Store_364,Phoenix
+365,Manager_365,Store_365,Houston
+366,Manager_366,Store_366,New York
+367,Manager_367,Store_367,Phoenix
+368,Manager_368,Store_368,New York
+369,Manager_369,Store_369,Chicago
+370,Manager_370,Store_370,Phoenix
+371,Manager_371,Store_371,Houston
+372,Manager_372,Store_372,Chicago
+373,Manager_373,Store_373,Los Angeles
+374,Manager_374,Store_374,Chicago
+375,Manager_375,Store_375,Chicago
+376,Manager_376,Store_376,Houston
+377,Manager_377,Store_377,Houston
+378,Manager_378,Store_378,Los Angeles
+379,Manager_379,Store_379,New York
+380,Manager_380,Store_380,Los Angeles
+381,Manager_381,Store_381,Houston
+382,Manager_382,Store_382,Los Angeles
+383,Manager_383,Store_383,Phoenix
+384,Manager_384,Store_384,Houston
+385,Manager_385,Store_385,Los Angeles
+386,Manager_386,Store_386,New York
+387,Manager_387,Store_387,Chicago
+388,Manager_388,Store_388,Houston
+389,Manager_389,Store_389,Chicago
+390,Manager_390,Store_390,Houston
+391,Manager_391,Store_391,New York
+392,Manager_392,Store_392,Los Angeles
+393,Manager_393,Store_393,Houston
+394,Manager_394,Store_394,Phoenix
+395,Manager_395,Store_395,Chicago
+396,Manager_396,Store_396,Houston
+397,Manager_397,Store_397,Houston
+398,Manager_398,Store_398,Phoenix
+399,Manager_399,Store_399,Houston
+400,Manager_400,Store_400,Los Angeles
+401,Manager_401,Store_401,Phoenix
+402,Manager_402,Store_402,Houston
+403,Manager_403,Store_403,Phoenix
+404,Manager_404,Store_404,Phoenix
+405,Manager_405,Store_405,Chicago
+406,Manager_406,Store_406,Houston
+407,Manager_407,Store_407,Houston
+408,Manager_408,Store_408,Phoenix
+409,Manager_409,Store_409,New York
+410,Manager_410,Store_410,Phoenix
+411,Manager_411,Store_411,Los Angeles
+412,Manager_412,Store_412,Los Angeles
+413,Manager_413,Store_413,Los Angeles
+414,Manager_414,Store_414,Chicago
+415,Manager_415,Store_415,New York
+416,Manager_416,Store_416,Phoenix
+417,Manager_417,Store_417,Chicago
+418,Manager_418,Store_418,Chicago
+419,Manager_419,Store_419,Chicago
+420,Manager_420,Store_420,Los Angeles
+421,Manager_421,Store_421,New York
+422,Manager_422,Store_422,Phoenix
+423,Manager_423,Store_423,Los Angeles
+424,Manager_424,Store_424,New York
+425,Manager_425,Store_425,Los Angeles
+426,Manager_426,Store_426,Los Angeles
+427,Manager_427,Store_427,New York
+428,Manager_428,Store_428,Houston
+429,Manager_429,Store_429,New York
+430,Manager_430,Store_430,Houston
+431,Manager_431,Store_431,New York
+432,Manager_432,Store_432,Los Angeles
+433,Manager_433,Store_433,New York
+434,Manager_434,Store_434,Phoenix
+435,Manager_435,Store_435,Houston
+436,Manager_436,Store_436,New York
+437,Manager_437,Store_437,New York
+438,Manager_438,Store_438,Houston
+439,Manager_439,Store_439,Los Angeles
+440,Manager_440,Store_440,Los Angeles
+441,Manager_441,Store_441,Houston
+442,Manager_442,Store_442,Chicago
+443,Manager_443,Store_443,Phoenix
+444,Manager_444,Store_444,Phoenix
+445,Manager_445,Store_445,Chicago
+446,Manager_446,Store_446,Chicago
+447,Manager_447,Store_447,Houston
+448,Manager_448,Store_448,Los Angeles
+449,Manager_449,Store_449,Los Angeles
+450,Manager_450,Store_450,Los Angeles
+451,Manager_451,Store_451,Los Angeles
+452,Manager_452,Store_452,Houston
+453,Manager_453,Store_453,Phoenix
+454,Manager_454,Store_454,Phoenix
+455,Manager_455,Store_455,Chicago
+456,Manager_456,Store_456,Phoenix
+457,Manager_457,Store_457,Los Angeles
+458,Manager_458,Store_458,Houston
+459,Manager_459,Store_459,Phoenix
+460,Manager_460,Store_460,Los Angeles
+461,Manager_461,Store_461,Houston
+462,Manager_462,Store_462,Chicago
+463,Manager_463,Store_463,Houston
+464,Manager_464,Store_464,Phoenix
+465,Manager_465,Store_465,Chicago
+466,Manager_466,Store_466,Chicago
+467,Manager_467,Store_467,Los Angeles
+468,Manager_468,Store_468,Phoenix
+469,Manager_469,Store_469,Houston
+470,Manager_470,Store_470,Los Angeles
+471,Manager_471,Store_471,Chicago
+472,Manager_472,Store_472,Los Angeles
+473,Manager_473,Store_473,New York
+474,Manager_474,Store_474,New York
+475,Manager_475,Store_475,Phoenix
+476,Manager_476,Store_476,Phoenix
+477,Manager_477,Store_477,Phoenix
+478,Manager_478,Store_478,Chicago
+479,Manager_479,Store_479,New York
+480,Manager_480,Store_480,Houston
+481,Manager_481,Store_481,New York
+482,Manager_482,Store_482,New York
+483,Manager_483,Store_483,Los Angeles
+484,Manager_484,Store_484,Los Angeles
+485,Manager_485,Store_485,Houston
+486,Manager_486,Store_486,Phoenix
+487,Manager_487,Store_487,Chicago
+488,Manager_488,Store_488,Los Angeles
+489,Manager_489,Store_489,New York
+490,Manager_490,Store_490,Phoenix
+491,Manager_491,Store_491,Los Angeles
+492,Manager_492,Store_492,Chicago
+493,Manager_493,Store_493,Phoenix
+494,Manager_494,Store_494,New York
+495,Manager_495,Store_495,New York
+496,Manager_496,Store_496,New York
+497,Manager_497,Store_497,New York
+498,Manager_498,Store_498,Houston
+499,Manager_499,Store_499,Phoenix
+500,Manager_500,Store_500,Houston
+501,Manager_501,Store_501,Chicago
+502,Manager_502,Store_502,Los Angeles
+503,Manager_503,Store_503,Los Angeles
+504,Manager_504,Store_504,Chicago
+505,Manager_505,Store_505,Los Angeles
+506,Manager_506,Store_506,Chicago
+507,Manager_507,Store_507,New York
+508,Manager_508,Store_508,Los Angeles
+509,Manager_509,Store_509,Phoenix
+510,Manager_510,Store_510,Chicago
+511,Manager_511,Store_511,New York
+512,Manager_512,Store_512,Houston
+513,Manager_513,Store_513,Los Angeles
+514,Manager_514,Store_514,Chicago
+515,Manager_515,Store_515,Phoenix
+516,Manager_516,Store_516,Houston
+517,Manager_517,Store_517,Phoenix
+518,Manager_518,Store_518,New York
+519,Manager_519,Store_519,Chicago
+520,Manager_520,Store_520,Phoenix
+521,Manager_521,Store_521,Houston
+522,Manager_522,Store_522,Phoenix
+523,Manager_523,Store_523,Houston
+524,Manager_524,Store_524,New York
+525,Manager_525,Store_525,Houston
+526,Manager_526,Store_526,Houston
+527,Manager_527,Store_527,New York
+528,Manager_528,Store_528,Houston
+529,Manager_529,Store_529,Houston
+530,Manager_530,Store_530,New York
+531,Manager_531,Store_531,Phoenix
+532,Manager_532,Store_532,Phoenix
+533,Manager_533,Store_533,Los Angeles
+534,Manager_534,Store_534,Houston
+535,Manager_535,Store_535,Phoenix
+536,Manager_536,Store_536,New York
+537,Manager_537,Store_537,New York
+538,Manager_538,Store_538,Houston
+539,Manager_539,Store_539,Houston
+540,Manager_540,Store_540,Chicago
+541,Manager_541,Store_541,Los Angeles
+542,Manager_542,Store_542,Houston
+543,Manager_543,Store_543,Chicago
+544,Manager_544,Store_544,Phoenix
+545,Manager_545,Store_545,Los Angeles
+546,Manager_546,Store_546,Chicago
+547,Manager_547,Store_547,Chicago
+548,Manager_548,Store_548,Los Angeles
+549,Manager_549,Store_549,Phoenix
+550,Manager_550,Store_550,Phoenix
+551,Manager_551,Store_551,Phoenix
+552,Manager_552,Store_552,Chicago
+553,Manager_553,Store_553,Chicago
+554,Manager_554,Store_554,Phoenix
+555,Manager_555,Store_555,Chicago
+556,Manager_556,Store_556,New York
+557,Manager_557,Store_557,New York
+558,Manager_558,Store_558,Phoenix
+559,Manager_559,Store_559,Chicago
+560,Manager_560,Store_560,Houston
+561,Manager_561,Store_561,Phoenix
+562,Manager_562,Store_562,New York
+563,Manager_563,Store_563,Los Angeles
+564,Manager_564,Store_564,Phoenix
+565,Manager_565,Store_565,Phoenix
+566,Manager_566,Store_566,Houston
+567,Manager_567,Store_567,New York
+568,Manager_568,Store_568,Phoenix
+569,Manager_569,Store_569,Chicago
+570,Manager_570,Store_570,Houston
+571,Manager_571,Store_571,Houston
+572,Manager_572,Store_572,New York
+573,Manager_573,Store_573,New York
+574,Manager_574,Store_574,New York
+575,Manager_575,Store_575,Houston
+576,Manager_576,Store_576,New York
+577,Manager_577,Store_577,Phoenix
+578,Manager_578,Store_578,Chicago
+579,Manager_579,Store_579,Los Angeles
+580,Manager_580,Store_580,Chicago
+581,Manager_581,Store_581,New York
+582,Manager_582,Store_582,Chicago
+583,Manager_583,Store_583,Chicago
+584,Manager_584,Store_584,Phoenix
+585,Manager_585,Store_585,Los Angeles
+586,Manager_586,Store_586,Houston
+587,Manager_587,Store_587,New York
+588,Manager_588,Store_588,Phoenix
+589,Manager_589,Store_589,Los Angeles
+590,Manager_590,Store_590,Phoenix
+591,Manager_591,Store_591,New York
+592,Manager_592,Store_592,New York
+593,Manager_593,Store_593,Houston
+594,Manager_594,Store_594,Houston
+595,Manager_595,Store_595,Los Angeles
+596,Manager_596,Store_596,Houston
+597,Manager_597,Store_597,Chicago
+598,Manager_598,Store_598,Houston
+599,Manager_599,Store_599,Phoenix
+600,Manager_600,Store_600,New York
+601,Manager_601,Store_601,Houston
+602,Manager_602,Store_602,Los Angeles
+603,Manager_603,Store_603,Phoenix
+604,Manager_604,Store_604,Houston
+605,Manager_605,Store_605,Houston
+606,Manager_606,Store_606,New York
+607,Manager_607,Store_607,Phoenix
+608,Manager_608,Store_608,Chicago
+609,Manager_609,Store_609,Los Angeles
+610,Manager_610,Store_610,Chicago
+611,Manager_611,Store_611,Phoenix
+612,Manager_612,Store_612,New York
+613,Manager_613,Store_613,Phoenix
+614,Manager_614,Store_614,Houston
+615,Manager_615,Store_615,Houston
+616,Manager_616,Store_616,Chicago
+617,Manager_617,Store_617,Houston
+618,Manager_618,Store_618,Los Angeles
+619,Manager_619,Store_619,Phoenix
+620,Manager_620,Store_620,New York
+621,Manager_621,Store_621,Houston
+622,Manager_622,Store_622,New York
+623,Manager_623,Store_623,Chicago
+624,Manager_624,Store_624,Houston
+625,Manager_625,Store_625,Chicago
+626,Manager_626,Store_626,Houston
+627,Manager_627,Store_627,Chicago
+628,Manager_628,Store_628,New York
+629,Manager_629,Store_629,New York
+630,Manager_630,Store_630,Phoenix
+631,Manager_631,Store_631,Chicago
+632,Manager_632,Store_632,Phoenix
+633,Manager_633,Store_633,Houston
+634,Manager_634,Store_634,New York
+635,Manager_635,Store_635,New York
+636,Manager_636,Store_636,Houston
+637,Manager_637,Store_637,Houston
+638,Manager_638,Store_638,Houston
+639,Manager_639,Store_639,New York
+640,Manager_640,Store_640,Phoenix
+641,Manager_641,Store_641,Chicago
+642,Manager_642,Store_642,Chicago
+643,Manager_643,Store_643,Los Angeles
+644,Manager_644,Store_644,New York
+645,Manager_645,Store_645,Phoenix
+646,Manager_646,Store_646,Phoenix
+647,Manager_647,Store_647,Houston
+648,Manager_648,Store_648,New York
+649,Manager_649,Store_649,Chicago
+650,Manager_650,Store_650,New York
+651,Manager_651,Store_651,Houston
+652,Manager_652,Store_652,New York
+653,Manager_653,Store_653,Phoenix
+654,Manager_654,Store_654,Houston
+655,Manager_655,Store_655,Los Angeles
+656,Manager_656,Store_656,Phoenix
+657,Manager_657,Store_657,Los Angeles
+658,Manager_658,Store_658,New York
+659,Manager_659,Store_659,Los Angeles
+660,Manager_660,Store_660,Phoenix
+661,Manager_661,Store_661,Chicago
+662,Manager_662,Store_662,Los Angeles
+663,Manager_663,Store_663,New York
+664,Manager_664,Store_664,Los Angeles
+665,Manager_665,Store_665,Los Angeles
+666,Manager_666,Store_666,Houston
+667,Manager_667,Store_667,Chicago
+668,Manager_668,Store_668,Phoenix
+669,Manager_669,Store_669,New York
+670,Manager_670,Store_670,Phoenix
+671,Manager_671,Store_671,Phoenix
+672,Manager_672,Store_672,Los Angeles
+673,Manager_673,Store_673,Phoenix
+674,Manager_674,Store_674,Phoenix
+675,Manager_675,Store_675,Los Angeles
+676,Manager_676,Store_676,Chicago
+677,Manager_677,Store_677,Chicago
+678,Manager_678,Store_678,Phoenix
+679,Manager_679,Store_679,New York
+680,Manager_680,Store_680,New York
+681,Manager_681,Store_681,Houston
+682,Manager_682,Store_682,Chicago
+683,Manager_683,Store_683,New York
+684,Manager_684,Store_684,Phoenix
+685,Manager_685,Store_685,Houston
+686,Manager_686,Store_686,Phoenix
+687,Manager_687,Store_687,Houston
+688,Manager_688,Store_688,Chicago
+689,Manager_689,Store_689,New York
+690,Manager_690,Store_690,Chicago
+691,Manager_691,Store_691,Phoenix
+692,Manager_692,Store_692,Phoenix
+693,Manager_693,Store_693,Los Angeles
+694,Manager_694,Store_694,Chicago
+695,Manager_695,Store_695,Los Angeles
+696,Manager_696,Store_696,Los Angeles
+697,Manager_697,Store_697,Los Angeles
+698,Manager_698,Store_698,Chicago
+699,Manager_699,Store_699,Phoenix
+700,Manager_700,Store_700,Los Angeles
+701,Manager_701,Store_701,New York
+702,Manager_702,Store_702,Los Angeles
+703,Manager_703,Store_703,Chicago
+704,Manager_704,Store_704,Chicago
+705,Manager_705,Store_705,Phoenix
+706,Manager_706,Store_706,Phoenix
+707,Manager_707,Store_707,Houston
+708,Manager_708,Store_708,Los Angeles
+709,Manager_709,Store_709,New York
+710,Manager_710,Store_710,Phoenix
+711,Manager_711,Store_711,Phoenix
+712,Manager_712,Store_712,Los Angeles
+713,Manager_713,Store_713,Chicago
+714,Manager_714,Store_714,Los Angeles
+715,Manager_715,Store_715,New York
+716,Manager_716,Store_716,New York
+717,Manager_717,Store_717,Phoenix
+718,Manager_718,Store_718,Chicago
+719,Manager_719,Store_719,Phoenix
+720,Manager_720,Store_720,Houston
+721,Manager_721,Store_721,Phoenix
+722,Manager_722,Store_722,Phoenix
+723,Manager_723,Store_723,Los Angeles
+724,Manager_724,Store_724,Houston
+725,Manager_725,Store_725,Phoenix
+726,Manager_726,Store_726,Los Angeles
+727,Manager_727,Store_727,Phoenix
+728,Manager_728,Store_728,Los Angeles
+729,Manager_729,Store_729,Phoenix
+730,Manager_730,Store_730,Phoenix
+731,Manager_731,Store_731,Chicago
+732,Manager_732,Store_732,New York
+733,Manager_733,Store_733,Chicago
+734,Manager_734,Store_734,Chicago
+735,Manager_735,Store_735,Chicago
+736,Manager_736,Store_736,Los Angeles
+737,Manager_737,Store_737,Phoenix
+738,Manager_738,Store_738,Houston
+739,Manager_739,Store_739,Houston
+740,Manager_740,Store_740,Chicago
+741,Manager_741,Store_741,Los Angeles
+742,Manager_742,Store_742,Houston
+743,Manager_743,Store_743,Los Angeles
+744,Manager_744,Store_744,New York
+745,Manager_745,Store_745,Phoenix
+746,Manager_746,Store_746,Houston
+747,Manager_747,Store_747,Houston
+748,Manager_748,Store_748,Phoenix
+749,Manager_749,Store_749,Los Angeles
+750,Manager_750,Store_750,Houston
+751,Manager_751,Store_751,New York
+752,Manager_752,Store_752,Houston
+753,Manager_753,Store_753,Houston
+754,Manager_754,Store_754,Chicago
+755,Manager_755,Store_755,Houston
+756,Manager_756,Store_756,Los Angeles
+757,Manager_757,Store_757,Houston
+758,Manager_758,Store_758,Houston
+759,Manager_759,Store_759,Houston
+760,Manager_760,Store_760,Chicago
+761,Manager_761,Store_761,Phoenix
+762,Manager_762,Store_762,New York
+763,Manager_763,Store_763,Chicago
+764,Manager_764,Store_764,Houston
+765,Manager_765,Store_765,Houston
+766,Manager_766,Store_766,Los Angeles
+767,Manager_767,Store_767,Houston
+768,Manager_768,Store_768,Houston
+769,Manager_769,Store_769,New York
+770,Manager_770,Store_770,Houston
+771,Manager_771,Store_771,New York
+772,Manager_772,Store_772,Phoenix
+773,Manager_773,Store_773,Los Angeles
+774,Manager_774,Store_774,New York
+775,Manager_775,Store_775,Houston
+776,Manager_776,Store_776,Los Angeles
+777,Manager_777,Store_777,Houston
+778,Manager_778,Store_778,New York
+779,Manager_779,Store_779,Phoenix
+780,Manager_780,Store_780,Phoenix
+781,Manager_781,Store_781,Chicago
+782,Manager_782,Store_782,New York
+783,Manager_783,Store_783,New York
+784,Manager_784,Store_784,Chicago
+785,Manager_785,Store_785,Los Angeles
+786,Manager_786,Store_786,New York
+787,Manager_787,Store_787,New York
+788,Manager_788,Store_788,Phoenix
+789,Manager_789,Store_789,Houston
+790,Manager_790,Store_790,Chicago
+791,Manager_791,Store_791,New York
+792,Manager_792,Store_792,Chicago
+793,Manager_793,Store_793,Phoenix
+794,Manager_794,Store_794,Los Angeles
+795,Manager_795,Store_795,Phoenix
+796,Manager_796,Store_796,Chicago
+797,Manager_797,Store_797,Houston
+798,Manager_798,Store_798,Chicago
+799,Manager_799,Store_799,New York
+800,Manager_800,Store_800,New York
+801,Manager_801,Store_801,Chicago
+802,Manager_802,Store_802,New York
+803,Manager_803,Store_803,Los Angeles
+804,Manager_804,Store_804,Los Angeles
+805,Manager_805,Store_805,New York
+806,Manager_806,Store_806,Phoenix
+807,Manager_807,Store_807,Los Angeles
+808,Manager_808,Store_808,Phoenix
+809,Manager_809,Store_809,New York
+810,Manager_810,Store_810,New York
+811,Manager_811,Store_811,Houston
+812,Manager_812,Store_812,Chicago
+813,Manager_813,Store_813,Chicago
+814,Manager_814,Store_814,Phoenix
+815,Manager_815,Store_815,Chicago
+816,Manager_816,Store_816,Chicago
+817,Manager_817,Store_817,New York
+818,Manager_818,Store_818,New York
+819,Manager_819,Store_819,New York
+820,Manager_820,Store_820,New York
+821,Manager_821,Store_821,New York
+822,Manager_822,Store_822,Chicago
+823,Manager_823,Store_823,New York
+824,Manager_824,Store_824,Chicago
+825,Manager_825,Store_825,Los Angeles
+826,Manager_826,Store_826,Phoenix
+827,Manager_827,Store_827,New York
+828,Manager_828,Store_828,Chicago
+829,Manager_829,Store_829,New York
+830,Manager_830,Store_830,New York
+831,Manager_831,Store_831,Houston
+832,Manager_832,Store_832,New York
+833,Manager_833,Store_833,Los Angeles
+834,Manager_834,Store_834,Chicago
+835,Manager_835,Store_835,Chicago
+836,Manager_836,Store_836,Houston
+837,Manager_837,Store_837,Los Angeles
+838,Manager_838,Store_838,Los Angeles
+839,Manager_839,Store_839,New York
+840,Manager_840,Store_840,Los Angeles
+841,Manager_841,Store_841,Phoenix
+842,Manager_842,Store_842,Los Angeles
+843,Manager_843,Store_843,Phoenix
+844,Manager_844,Store_844,Los Angeles
+845,Manager_845,Store_845,Houston
+846,Manager_846,Store_846,Houston
+847,Manager_847,Store_847,Chicago
+848,Manager_848,Store_848,Los Angeles
+849,Manager_849,Store_849,New York
+850,Manager_850,Store_850,Los Angeles
+851,Manager_851,Store_851,Houston
+852,Manager_852,Store_852,Phoenix
+853,Manager_853,Store_853,Houston
+854,Manager_854,Store_854,Chicago
+855,Manager_855,Store_855,Los Angeles
+856,Manager_856,Store_856,Houston
+857,Manager_857,Store_857,Los Angeles
+858,Manager_858,Store_858,Chicago
+859,Manager_859,Store_859,Phoenix
+860,Manager_860,Store_860,Los Angeles
+861,Manager_861,Store_861,Los Angeles
+862,Manager_862,Store_862,New York
+863,Manager_863,Store_863,Chicago
+864,Manager_864,Store_864,Los Angeles
+865,Manager_865,Store_865,Chicago
+866,Manager_866,Store_866,New York
+867,Manager_867,Store_867,Houston
+868,Manager_868,Store_868,Los Angeles
+869,Manager_869,Store_869,New York
+870,Manager_870,Store_870,Los Angeles
+871,Manager_871,Store_871,Los Angeles
+872,Manager_872,Store_872,Los Angeles
+873,Manager_873,Store_873,Houston
+874,Manager_874,Store_874,Phoenix
+875,Manager_875,Store_875,Los Angeles
+876,Manager_876,Store_876,Los Angeles
+877,Manager_877,Store_877,Phoenix
+878,Manager_878,Store_878,New York
+879,Manager_879,Store_879,New York
+880,Manager_880,Store_880,Chicago
+881,Manager_881,Store_881,Los Angeles
+882,Manager_882,Store_882,Phoenix
+883,Manager_883,Store_883,Chicago
+884,Manager_884,Store_884,Houston
+885,Manager_885,Store_885,Houston
+886,Manager_886,Store_886,Phoenix
+887,Manager_887,Store_887,Houston
+888,Manager_888,Store_888,Los Angeles
+889,Manager_889,Store_889,Phoenix
+890,Manager_890,Store_890,Phoenix
+891,Manager_891,Store_891,Houston
+892,Manager_892,Store_892,New York
+893,Manager_893,Store_893,New York
+894,Manager_894,Store_894,Houston
+895,Manager_895,Store_895,Phoenix
+896,Manager_896,Store_896,Chicago
+897,Manager_897,Store_897,Chicago
+898,Manager_898,Store_898,Houston
+899,Manager_899,Store_899,New York
+900,Manager_900,Store_900,Phoenix
+901,Manager_901,Store_901,Houston
+902,Manager_902,Store_902,Phoenix
+903,Manager_903,Store_903,Chicago
+904,Manager_904,Store_904,Phoenix
+905,Manager_905,Store_905,Phoenix
+906,Manager_906,Store_906,Los Angeles
+907,Manager_907,Store_907,New York
+908,Manager_908,Store_908,Chicago
+909,Manager_909,Store_909,Houston
+910,Manager_910,Store_910,Chicago
+911,Manager_911,Store_911,Phoenix
+912,Manager_912,Store_912,Los Angeles
+913,Manager_913,Store_913,Los Angeles
+914,Manager_914,Store_914,Phoenix
+915,Manager_915,Store_915,Houston
+916,Manager_916,Store_916,Los Angeles
+917,Manager_917,Store_917,Chicago
+918,Manager_918,Store_918,Chicago
+919,Manager_919,Store_919,New York
+920,Manager_920,Store_920,Houston
+921,Manager_921,Store_921,Chicago
+922,Manager_922,Store_922,New York
+923,Manager_923,Store_923,Phoenix
+924,Manager_924,Store_924,Los Angeles
+925,Manager_925,Store_925,New York
+926,Manager_926,Store_926,Chicago
+927,Manager_927,Store_927,Los Angeles
+928,Manager_928,Store_928,Phoenix
+929,Manager_929,Store_929,New York
+930,Manager_930,Store_930,New York
+931,Manager_931,Store_931,Los Angeles
+932,Manager_932,Store_932,Phoenix
+933,Manager_933,Store_933,Los Angeles
+934,Manager_934,Store_934,Phoenix
+935,Manager_935,Store_935,Los Angeles
+936,Manager_936,Store_936,Phoenix
+937,Manager_937,Store_937,Los Angeles
+938,Manager_938,Store_938,Phoenix
+939,Manager_939,Store_939,New York
+940,Manager_940,Store_940,New York
+941,Manager_941,Store_941,Chicago
+942,Manager_942,Store_942,Los Angeles
+943,Manager_943,Store_943,New York
+944,Manager_944,Store_944,New York
+945,Manager_945,Store_945,New York
+946,Manager_946,Store_946,Phoenix
+947,Manager_947,Store_947,Los Angeles
+948,Manager_948,Store_948,Chicago
+949,Manager_949,Store_949,Houston
+950,Manager_950,Store_950,Houston
+951,Manager_951,Store_951,New York
+952,Manager_952,Store_952,New York
+953,Manager_953,Store_953,Houston
+954,Manager_954,Store_954,Phoenix
+955,Manager_955,Store_955,Houston
+956,Manager_956,Store_956,Houston
+957,Manager_957,Store_957,Houston
+958,Manager_958,Store_958,New York
+959,Manager_959,Store_959,Chicago
+960,Manager_960,Store_960,Phoenix
+961,Manager_961,Store_961,Phoenix
+962,Manager_962,Store_962,New York
+963,Manager_963,Store_963,Houston
+964,Manager_964,Store_964,Chicago
+965,Manager_965,Store_965,Los Angeles
+966,Manager_966,Store_966,Houston
+967,Manager_967,Store_967,New York
+968,Manager_968,Store_968,Los Angeles
+969,Manager_969,Store_969,Chicago
+970,Manager_970,Store_970,Phoenix
+971,Manager_971,Store_971,Houston
+972,Manager_972,Store_972,Houston
+973,Manager_973,Store_973,Houston
+974,Manager_974,Store_974,New York
+975,Manager_975,Store_975,New York
+976,Manager_976,Store_976,Houston
+977,Manager_977,Store_977,Houston
+978,Manager_978,Store_978,Chicago
+979,Manager_979,Store_979,New York
+980,Manager_980,Store_980,Houston
+981,Manager_981,Store_981,New York
+982,Manager_982,Store_982,Houston
+983,Manager_983,Store_983,Chicago
+984,Manager_984,Store_984,Houston
+985,Manager_985,Store_985,Houston
+986,Manager_986,Store_986,Los Angeles
+987,Manager_987,Store_987,Phoenix
+988,Manager_988,Store_988,Chicago
+989,Manager_989,Store_989,Los Angeles
+990,Manager_990,Store_990,Phoenix
+991,Manager_991,Store_991,New York
+992,Manager_992,Store_992,Los Angeles
+993,Manager_993,Store_993,Los Angeles
+994,Manager_994,Store_994,Houston
+995,Manager_995,Store_995,Los Angeles
+996,Manager_996,Store_996,Phoenix
+997,Manager_997,Store_997,Los Angeles
+998,Manager_998,Store_998,Los Angeles
+999,Manager_999,Store_999,Chicago
+1000,Manager_1000,Store_1000,Houston
+1001,Manager_1001,Store_1001,Chicago
+1002,Manager_1002,Store_1002,Phoenix
+1003,Manager_1003,Store_1003,Chicago
+1004,Manager_1004,Store_1004,Los Angeles
+1005,Manager_1005,Store_1005,Los Angeles
+1006,Manager_1006,Store_1006,Los Angeles
+1007,Manager_1007,Store_1007,Los Angeles
+1008,Manager_1008,Store_1008,New York
+1009,Manager_1009,Store_1009,Los Angeles
+1010,Manager_1010,Store_1010,Phoenix
+1011,Manager_1011,Store_1011,New York
+1012,Manager_1012,Store_1012,Los Angeles
+1013,Manager_1013,Store_1013,New York
+1014,Manager_1014,Store_1014,Houston
+1015,Manager_1015,Store_1015,Los Angeles
+1016,Manager_1016,Store_1016,Chicago
+1017,Manager_1017,Store_1017,Phoenix
+1018,Manager_1018,Store_1018,Los Angeles
+1019,Manager_1019,Store_1019,New York
+1020,Manager_1020,Store_1020,Los Angeles
+1021,Manager_1021,Store_1021,Los Angeles
+1022,Manager_1022,Store_1022,Houston
+1023,Manager_1023,Store_1023,Los Angeles
+1024,Manager_1024,Store_1024,Los Angeles
+1025,Manager_1025,Store_1025,Phoenix
+1026,Manager_1026,Store_1026,New York
+1027,Manager_1027,Store_1027,Phoenix
+1028,Manager_1028,Store_1028,Chicago
+1029,Manager_1029,Store_1029,Houston
+1030,Manager_1030,Store_1030,Houston
+1031,Manager_1031,Store_1031,New York
+1032,Manager_1032,Store_1032,Houston
+1033,Manager_1033,Store_1033,Los Angeles
+1034,Manager_1034,Store_1034,Phoenix
+1035,Manager_1035,Store_1035,New York
+1036,Manager_1036,Store_1036,Chicago
+1037,Manager_1037,Store_1037,Houston
+1038,Manager_1038,Store_1038,New York
+1039,Manager_1039,Store_1039,Phoenix
+1040,Manager_1040,Store_1040,Chicago
+1041,Manager_1041,Store_1041,Houston
+1042,Manager_1042,Store_1042,Los Angeles
+1043,Manager_1043,Store_1043,Phoenix
+1044,Manager_1044,Store_1044,Phoenix
+1045,Manager_1045,Store_1045,Los Angeles
+1046,Manager_1046,Store_1046,Chicago
+1047,Manager_1047,Store_1047,New York
+1048,Manager_1048,Store_1048,Houston
+1049,Manager_1049,Store_1049,Los Angeles
+1050,Manager_1050,Store_1050,Los Angeles
+1051,Manager_1051,Store_1051,Phoenix
+1052,Manager_1052,Store_1052,Los Angeles
+1053,Manager_1053,Store_1053,New York
+1054,Manager_1054,Store_1054,Chicago
+1055,Manager_1055,Store_1055,Chicago
+1056,Manager_1056,Store_1056,Phoenix
+1057,Manager_1057,Store_1057,Houston
+1058,Manager_1058,Store_1058,Chicago
+1059,Manager_1059,Store_1059,Los Angeles
+1060,Manager_1060,Store_1060,Los Angeles
+1061,Manager_1061,Store_1061,Los Angeles
+1062,Manager_1062,Store_1062,New York
+1063,Manager_1063,Store_1063,Houston
+1064,Manager_1064,Store_1064,Los Angeles
+1065,Manager_1065,Store_1065,Phoenix
+1066,Manager_1066,Store_1066,Los Angeles
+1067,Manager_1067,Store_1067,Phoenix
+1068,Manager_1068,Store_1068,New York
+1069,Manager_1069,Store_1069,Chicago
+1070,Manager_1070,Store_1070,New York
+1071,Manager_1071,Store_1071,New York
+1072,Manager_1072,Store_1072,Phoenix
+1073,Manager_1073,Store_1073,Los Angeles
+1074,Manager_1074,Store_1074,Los Angeles
+1075,Manager_1075,Store_1075,New York
+1076,Manager_1076,Store_1076,Chicago
+1077,Manager_1077,Store_1077,Houston
+1078,Manager_1078,Store_1078,Los Angeles
+1079,Manager_1079,Store_1079,Houston
+1080,Manager_1080,Store_1080,Chicago
+1081,Manager_1081,Store_1081,Phoenix
+1082,Manager_1082,Store_1082,Houston
+1083,Manager_1083,Store_1083,Los Angeles
+1084,Manager_1084,Store_1084,Los Angeles
+1085,Manager_1085,Store_1085,Chicago
+1086,Manager_1086,Store_1086,Phoenix
+1087,Manager_1087,Store_1087,Los Angeles
+1088,Manager_1088,Store_1088,New York
+1089,Manager_1089,Store_1089,Houston
+1090,Manager_1090,Store_1090,New York
+1091,Manager_1091,Store_1091,New York
+1092,Manager_1092,Store_1092,Phoenix
+1093,Manager_1093,Store_1093,Chicago
+1094,Manager_1094,Store_1094,Phoenix
+1095,Manager_1095,Store_1095,Los Angeles
+1096,Manager_1096,Store_1096,Phoenix
+1097,Manager_1097,Store_1097,Phoenix
+1098,Manager_1098,Store_1098,Phoenix
+1099,Manager_1099,Store_1099,Chicago
+1100,Manager_1100,Store_1100,Phoenix
+1101,Manager_1101,Store_1101,Chicago
+1102,Manager_1102,Store_1102,Los Angeles
+1103,Manager_1103,Store_1103,New York
+1104,Manager_1104,Store_1104,New York
+1105,Manager_1105,Store_1105,Chicago
+1106,Manager_1106,Store_1106,Los Angeles
+1107,Manager_1107,Store_1107,Houston
+1108,Manager_1108,Store_1108,New York
+1109,Manager_1109,Store_1109,Phoenix
+1110,Manager_1110,Store_1110,Phoenix
+1111,Manager_1111,Store_1111,Houston
+1112,Manager_1112,Store_1112,Phoenix
+1113,Manager_1113,Store_1113,Los Angeles
+1114,Manager_1114,Store_1114,Phoenix
+1115,Manager_1115,Store_1115,Los Angeles
+1116,Manager_1116,Store_1116,Phoenix
+1117,Manager_1117,Store_1117,Los Angeles
+1118,Manager_1118,Store_1118,Los Angeles
+1119,Manager_1119,Store_1119,Chicago
+1120,Manager_1120,Store_1120,Los Angeles
+1121,Manager_1121,Store_1121,Los Angeles
+1122,Manager_1122,Store_1122,Los Angeles
+1123,Manager_1123,Store_1123,New York
+1124,Manager_1124,Store_1124,Los Angeles
+1125,Manager_1125,Store_1125,Chicago
+1126,Manager_1126,Store_1126,Houston
+1127,Manager_1127,Store_1127,Chicago
+1128,Manager_1128,Store_1128,Los Angeles
+1129,Manager_1129,Store_1129,New York
+1130,Manager_1130,Store_1130,Houston
+1131,Manager_1131,Store_1131,Phoenix
+1132,Manager_1132,Store_1132,Los Angeles
+1133,Manager_1133,Store_1133,Phoenix
+1134,Manager_1134,Store_1134,New York
+1135,Manager_1135,Store_1135,Los Angeles
+1136,Manager_1136,Store_1136,Houston
+1137,Manager_1137,Store_1137,Phoenix
+1138,Manager_1138,Store_1138,Chicago
+1139,Manager_1139,Store_1139,Houston
+1140,Manager_1140,Store_1140,Houston
+1141,Manager_1141,Store_1141,Chicago
+1142,Manager_1142,Store_1142,Los Angeles
+1143,Manager_1143,Store_1143,Phoenix
+1144,Manager_1144,Store_1144,New York
+1145,Manager_1145,Store_1145,New York
+1146,Manager_1146,Store_1146,New York
+1147,Manager_1147,Store_1147,Chicago
+1148,Manager_1148,Store_1148,Chicago
+1149,Manager_1149,Store_1149,Chicago
+1150,Manager_1150,Store_1150,Los Angeles
+1151,Manager_1151,Store_1151,Houston
+1152,Manager_1152,Store_1152,Houston
+1153,Manager_1153,Store_1153,Phoenix
+1154,Manager_1154,Store_1154,Houston
+1155,Manager_1155,Store_1155,Los Angeles
+1156,Manager_1156,Store_1156,Phoenix
+1157,Manager_1157,Store_1157,Los Angeles
+1158,Manager_1158,Store_1158,Houston
+1159,Manager_1159,Store_1159,Chicago
+1160,Manager_1160,Store_1160,Houston
+1161,Manager_1161,Store_1161,New York
+1162,Manager_1162,Store_1162,Los Angeles
+1163,Manager_1163,Store_1163,Phoenix
+1164,Manager_1164,Store_1164,Phoenix
+1165,Manager_1165,Store_1165,Los Angeles
+1166,Manager_1166,Store_1166,Phoenix
+1167,Manager_1167,Store_1167,Chicago
+1168,Manager_1168,Store_1168,Chicago
+1169,Manager_1169,Store_1169,Los Angeles
+1170,Manager_1170,Store_1170,Phoenix
+1171,Manager_1171,Store_1171,Los Angeles
+1172,Manager_1172,Store_1172,Phoenix
+1173,Manager_1173,Store_1173,Phoenix
+1174,Manager_1174,Store_1174,Houston
+1175,Manager_1175,Store_1175,Los Angeles
+1176,Manager_1176,Store_1176,Los Angeles
+1177,Manager_1177,Store_1177,Chicago
+1178,Manager_1178,Store_1178,New York
+1179,Manager_1179,Store_1179,New York
+1180,Manager_1180,Store_1180,Phoenix
+1181,Manager_1181,Store_1181,Houston
+1182,Manager_1182,Store_1182,Phoenix
+1183,Manager_1183,Store_1183,Chicago
+1184,Manager_1184,Store_1184,Houston
+1185,Manager_1185,Store_1185,New York
+1186,Manager_1186,Store_1186,Phoenix
+1187,Manager_1187,Store_1187,Los Angeles
+1188,Manager_1188,Store_1188,Houston
+1189,Manager_1189,Store_1189,Los Angeles
+1190,Manager_1190,Store_1190,Chicago
+1191,Manager_1191,Store_1191,Chicago
+1192,Manager_1192,Store_1192,Chicago
+1193,Manager_1193,Store_1193,Houston
+1194,Manager_1194,Store_1194,Chicago
+1195,Manager_1195,Store_1195,New York
+1196,Manager_1196,Store_1196,Los Angeles
+1197,Manager_1197,Store_1197,New York
+1198,Manager_1198,Store_1198,Los Angeles
+1199,Manager_1199,Store_1199,Houston
+1200,Manager_1200,Store_1200,Chicago

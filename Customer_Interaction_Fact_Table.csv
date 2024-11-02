@@ -1,0 +1,1201 @@
+InteractionID,InteractionType,Outcome,CustomerID,DateID
+1,Support Call,Closed,1,1
+2,Product Inquiry,Resolved,2,2
+3,Feedback,Escalated,3,3
+4,Product Inquiry,Closed,4,4
+5,Feedback,Pending,5,5
+6,Feedback,Escalated,6,6
+7,Product Inquiry,Closed,7,7
+8,Support Call,Closed,8,8
+9,Feedback,Pending,9,9
+10,Product Inquiry,Closed,10,10
+11,Product Inquiry,Resolved,11,11
+12,Product Inquiry,Resolved,12,12
+13,Product Inquiry,Resolved,13,13
+14,Support Call,Closed,14,14
+15,Support Call,Closed,15,15
+16,Product Inquiry,Closed,16,16
+17,Feedback,Resolved,17,17
+18,Product Inquiry,Pending,18,18
+19,Product Inquiry,Closed,19,19
+20,Support Call,Closed,20,20
+21,Support Call,Pending,21,21
+22,Feedback,Escalated,22,22
+23,Feedback,Resolved,23,23
+24,Support Call,Pending,24,24
+25,Support Call,Escalated,25,25
+26,Product Inquiry,Closed,26,26
+27,Product Inquiry,Closed,27,27
+28,Product Inquiry,Resolved,28,28
+29,Support Call,Resolved,29,29
+30,Support Call,Closed,30,30
+31,Feedback,Resolved,31,31
+32,Feedback,Resolved,32,32
+33,Feedback,Closed,33,33
+34,Feedback,Escalated,34,34
+35,Product Inquiry,Resolved,35,35
+36,Feedback,Pending,36,36
+37,Feedback,Resolved,37,37
+38,Feedback,Resolved,38,38
+39,Product Inquiry,Closed,39,39
+40,Feedback,Escalated,40,40
+41,Product Inquiry,Closed,41,41
+42,Support Call,Closed,42,42
+43,Product Inquiry,Pending,43,43
+44,Product Inquiry,Escalated,44,44
+45,Product Inquiry,Resolved,45,45
+46,Product Inquiry,Escalated,46,46
+47,Feedback,Closed,47,47
+48,Product Inquiry,Pending,48,48
+49,Feedback,Resolved,49,49
+50,Feedback,Escalated,50,50
+51,Product Inquiry,Resolved,51,51
+52,Product Inquiry,Resolved,52,52
+53,Support Call,Escalated,53,53
+54,Support Call,Resolved,54,54
+55,Product Inquiry,Resolved,55,55
+56,Product Inquiry,Closed,56,56
+57,Product Inquiry,Escalated,57,57
+58,Feedback,Pending,58,58
+59,Support Call,Closed,59,59
+60,Product Inquiry,Escalated,60,60
+61,Product Inquiry,Resolved,61,61
+62,Support Call,Pending,62,62
+63,Feedback,Pending,63,63
+64,Support Call,Closed,64,64
+65,Support Call,Pending,65,65
+66,Product Inquiry,Closed,66,66
+67,Support Call,Closed,67,67
+68,Support Call,Pending,68,68
+69,Support Call,Pending,69,69
+70,Feedback,Resolved,70,70
+71,Product Inquiry,Resolved,71,71
+72,Support Call,Resolved,72,72
+73,Feedback,Pending,73,73
+74,Support Call,Closed,74,74
+75,Product Inquiry,Escalated,75,75
+76,Product Inquiry,Resolved,76,76
+77,Feedback,Resolved,77,77
+78,Support Call,Closed,78,78
+79,Support Call,Pending,79,79
+80,Support Call,Escalated,80,80
+81,Support Call,Resolved,81,81
+82,Product Inquiry,Closed,82,82
+83,Support Call,Escalated,83,83
+84,Product Inquiry,Closed,84,84
+85,Support Call,Escalated,85,85
+86,Product Inquiry,Escalated,86,86
+87,Support Call,Pending,87,87
+88,Support Call,Closed,88,88
+89,Feedback,Pending,89,89
+90,Support Call,Pending,90,90
+91,Product Inquiry,Closed,91,91
+92,Feedback,Resolved,92,92
+93,Feedback,Pending,93,93
+94,Support Call,Closed,94,94
+95,Feedback,Closed,95,95
+96,Product Inquiry,Pending,96,96
+97,Feedback,Pending,97,97
+98,Product Inquiry,Escalated,98,98
+99,Support Call,Pending,99,99
+100,Feedback,Pending,100,100
+101,Support Call,Closed,101,101
+102,Product Inquiry,Escalated,102,102
+103,Feedback,Closed,103,103
+104,Support Call,Pending,104,104
+105,Feedback,Resolved,105,105
+106,Feedback,Closed,106,106
+107,Feedback,Resolved,107,107
+108,Feedback,Resolved,108,108
+109,Support Call,Pending,109,109
+110,Product Inquiry,Pending,110,110
+111,Support Call,Escalated,111,111
+112,Product Inquiry,Pending,112,112
+113,Product Inquiry,Closed,113,113
+114,Product Inquiry,Escalated,114,114
+115,Feedback,Closed,115,115
+116,Feedback,Closed,116,116
+117,Support Call,Resolved,117,117
+118,Support Call,Escalated,118,118
+119,Product Inquiry,Resolved,119,119
+120,Product Inquiry,Escalated,120,120
+121,Feedback,Closed,121,121
+122,Support Call,Pending,122,122
+123,Support Call,Closed,123,123
+124,Product Inquiry,Escalated,124,124
+125,Feedback,Pending,125,125
+126,Product Inquiry,Resolved,126,126
+127,Product Inquiry,Closed,127,127
+128,Feedback,Pending,128,128
+129,Feedback,Escalated,129,129
+130,Feedback,Pending,130,130
+131,Support Call,Resolved,131,131
+132,Product Inquiry,Closed,132,132
+133,Feedback,Escalated,133,133
+134,Feedback,Resolved,134,134
+135,Feedback,Resolved,135,135
+136,Product Inquiry,Resolved,136,136
+137,Feedback,Escalated,137,137
+138,Product Inquiry,Closed,138,138
+139,Product Inquiry,Resolved,139,139
+140,Product Inquiry,Closed,140,140
+141,Feedback,Escalated,141,141
+142,Feedback,Closed,142,142
+143,Product Inquiry,Escalated,143,143
+144,Product Inquiry,Resolved,144,144
+145,Product Inquiry,Resolved,145,145
+146,Support Call,Closed,146,146
+147,Feedback,Resolved,147,147
+148,Product Inquiry,Escalated,148,148
+149,Product Inquiry,Resolved,149,149
+150,Feedback,Resolved,150,150
+151,Support Call,Closed,151,151
+152,Feedback,Resolved,152,152
+153,Support Call,Closed,153,153
+154,Product Inquiry,Escalated,154,154
+155,Product Inquiry,Pending,155,155
+156,Feedback,Pending,156,156
+157,Feedback,Escalated,157,157
+158,Feedback,Closed,158,158
+159,Feedback,Closed,159,159
+160,Feedback,Closed,160,160
+161,Support Call,Escalated,161,161
+162,Feedback,Escalated,162,162
+163,Feedback,Resolved,163,163
+164,Product Inquiry,Resolved,164,164
+165,Support Call,Escalated,165,165
+166,Feedback,Resolved,166,166
+167,Product Inquiry,Escalated,167,167
+168,Feedback,Pending,168,168
+169,Feedback,Escalated,169,169
+170,Product Inquiry,Resolved,170,170
+171,Support Call,Pending,171,171
+172,Product Inquiry,Resolved,172,172
+173,Product Inquiry,Closed,173,173
+174,Support Call,Pending,174,174
+175,Feedback,Escalated,175,175
+176,Feedback,Resolved,176,176
+177,Feedback,Resolved,177,177
+178,Feedback,Resolved,178,178
+179,Support Call,Pending,179,179
+180,Support Call,Escalated,180,180
+181,Support Call,Closed,181,181
+182,Product Inquiry,Escalated,182,182
+183,Product Inquiry,Closed,183,183
+184,Feedback,Closed,184,184
+185,Support Call,Resolved,185,185
+186,Support Call,Resolved,186,186
+187,Feedback,Pending,187,187
+188,Support Call,Escalated,188,188
+189,Product Inquiry,Escalated,189,189
+190,Support Call,Pending,190,190
+191,Product Inquiry,Closed,191,191
+192,Support Call,Escalated,192,192
+193,Feedback,Escalated,193,193
+194,Product Inquiry,Escalated,194,194
+195,Support Call,Resolved,195,195
+196,Product Inquiry,Pending,196,196
+197,Support Call,Escalated,197,197
+198,Product Inquiry,Closed,198,198
+199,Feedback,Resolved,199,199
+200,Support Call,Pending,200,200
+201,Product Inquiry,Resolved,201,201
+202,Feedback,Pending,202,202
+203,Product Inquiry,Pending,203,203
+204,Feedback,Escalated,204,204
+205,Feedback,Pending,205,205
+206,Feedback,Resolved,206,206
+207,Support Call,Escalated,207,207
+208,Support Call,Escalated,208,208
+209,Feedback,Escalated,209,209
+210,Support Call,Pending,210,210
+211,Support Call,Closed,211,211
+212,Product Inquiry,Resolved,212,212
+213,Support Call,Escalated,213,213
+214,Support Call,Closed,214,214
+215,Support Call,Pending,215,215
+216,Feedback,Pending,216,216
+217,Feedback,Resolved,217,217
+218,Feedback,Escalated,218,218
+219,Support Call,Escalated,219,219
+220,Product Inquiry,Resolved,220,220
+221,Product Inquiry,Pending,221,221
+222,Product Inquiry,Pending,222,222
+223,Product Inquiry,Closed,223,223
+224,Product Inquiry,Escalated,224,224
+225,Support Call,Resolved,225,225
+226,Support Call,Closed,226,226
+227,Product Inquiry,Pending,227,227
+228,Product Inquiry,Closed,228,228
+229,Support Call,Closed,229,229
+230,Support Call,Escalated,230,230
+231,Product Inquiry,Closed,231,231
+232,Feedback,Resolved,232,232
+233,Feedback,Escalated,233,233
+234,Product Inquiry,Escalated,234,234
+235,Product Inquiry,Closed,235,235
+236,Support Call,Pending,236,236
+237,Product Inquiry,Resolved,237,237
+238,Feedback,Pending,238,238
+239,Product Inquiry,Escalated,239,239
+240,Product Inquiry,Escalated,240,240
+241,Feedback,Closed,241,241
+242,Feedback,Pending,242,242
+243,Support Call,Pending,243,243
+244,Support Call,Closed,244,244
+245,Product Inquiry,Pending,245,245
+246,Feedback,Closed,246,246
+247,Support Call,Escalated,247,247
+248,Feedback,Pending,248,248
+249,Support Call,Pending,249,249
+250,Support Call,Pending,250,250
+251,Feedback,Closed,251,251
+252,Product Inquiry,Resolved,252,252
+253,Support Call,Escalated,253,253
+254,Product Inquiry,Escalated,254,254
+255,Support Call,Resolved,255,255
+256,Feedback,Pending,256,256
+257,Support Call,Closed,257,257
+258,Product Inquiry,Escalated,258,258
+259,Product Inquiry,Pending,259,259
+260,Support Call,Closed,260,260
+261,Product Inquiry,Closed,261,261
+262,Product Inquiry,Escalated,262,262
+263,Product Inquiry,Escalated,263,263
+264,Feedback,Escalated,264,264
+265,Support Call,Closed,265,265
+266,Product Inquiry,Pending,266,266
+267,Feedback,Escalated,267,267
+268,Feedback,Resolved,268,268
+269,Feedback,Escalated,269,269
+270,Feedback,Resolved,270,270
+271,Support Call,Closed,271,271
+272,Product Inquiry,Resolved,272,272
+273,Feedback,Escalated,273,273
+274,Product Inquiry,Resolved,274,274
+275,Support Call,Resolved,275,275
+276,Support Call,Resolved,276,276
+277,Product Inquiry,Pending,277,277
+278,Product Inquiry,Escalated,278,278
+279,Product Inquiry,Resolved,279,279
+280,Feedback,Closed,280,280
+281,Support Call,Closed,281,281
+282,Product Inquiry,Closed,282,282
+283,Product Inquiry,Closed,283,283
+284,Support Call,Pending,284,284
+285,Product Inquiry,Closed,285,285
+286,Support Call,Resolved,286,286
+287,Product Inquiry,Escalated,287,287
+288,Feedback,Pending,288,288
+289,Feedback,Resolved,289,289
+290,Support Call,Escalated,290,290
+291,Product Inquiry,Closed,291,291
+292,Feedback,Closed,292,292
+293,Support Call,Resolved,293,293
+294,Feedback,Pending,294,294
+295,Product Inquiry,Escalated,295,295
+296,Product Inquiry,Closed,296,296
+297,Product Inquiry,Escalated,297,297
+298,Product Inquiry,Pending,298,298
+299,Product Inquiry,Escalated,299,299
+300,Product Inquiry,Escalated,300,300
+301,Product Inquiry,Escalated,301,301
+302,Product Inquiry,Pending,302,302
+303,Support Call,Resolved,303,303
+304,Feedback,Pending,304,304
+305,Feedback,Escalated,305,305
+306,Support Call,Closed,306,306
+307,Support Call,Escalated,307,307
+308,Product Inquiry,Closed,308,308
+309,Product Inquiry,Resolved,309,309
+310,Product Inquiry,Pending,310,310
+311,Support Call,Closed,311,311
+312,Product Inquiry,Closed,312,312
+313,Support Call,Resolved,313,313
+314,Product Inquiry,Escalated,314,314
+315,Product Inquiry,Resolved,315,315
+316,Support Call,Closed,316,316
+317,Support Call,Resolved,317,317
+318,Support Call,Closed,318,318
+319,Product Inquiry,Pending,319,319
+320,Feedback,Pending,320,320
+321,Product Inquiry,Pending,321,321
+322,Feedback,Closed,322,322
+323,Product Inquiry,Pending,323,323
+324,Feedback,Resolved,324,324
+325,Feedback,Resolved,325,325
+326,Support Call,Closed,326,326
+327,Support Call,Escalated,327,327
+328,Feedback,Escalated,328,328
+329,Product Inquiry,Closed,329,329
+330,Feedback,Resolved,330,330
+331,Product Inquiry,Pending,331,331
+332,Support Call,Resolved,332,332
+333,Feedback,Pending,333,333
+334,Product Inquiry,Escalated,334,334
+335,Support Call,Escalated,335,335
+336,Feedback,Escalated,336,336
+337,Feedback,Resolved,337,337
+338,Support Call,Closed,338,338
+339,Support Call,Resolved,339,339
+340,Feedback,Pending,340,340
+341,Product Inquiry,Escalated,341,341
+342,Product Inquiry,Resolved,342,342
+343,Support Call,Closed,343,343
+344,Product Inquiry,Closed,344,344
+345,Product Inquiry,Resolved,345,345
+346,Feedback,Pending,346,346
+347,Product Inquiry,Escalated,347,347
+348,Product Inquiry,Escalated,348,348
+349,Support Call,Escalated,349,349
+350,Support Call,Resolved,350,350
+351,Product Inquiry,Pending,351,351
+352,Product Inquiry,Closed,352,352
+353,Feedback,Resolved,353,353
+354,Support Call,Escalated,354,354
+355,Support Call,Pending,355,355
+356,Support Call,Pending,356,356
+357,Feedback,Resolved,357,357
+358,Product Inquiry,Resolved,358,358
+359,Product Inquiry,Escalated,359,359
+360,Feedback,Resolved,360,360
+361,Feedback,Resolved,361,361
+362,Feedback,Resolved,362,362
+363,Support Call,Escalated,363,363
+364,Product Inquiry,Pending,364,364
+365,Feedback,Escalated,365,365
+366,Feedback,Closed,366,366
+367,Product Inquiry,Resolved,367,367
+368,Support Call,Resolved,368,368
+369,Support Call,Closed,369,369
+370,Feedback,Escalated,370,370
+371,Product Inquiry,Resolved,371,371
+372,Product Inquiry,Closed,372,372
+373,Product Inquiry,Pending,373,373
+374,Product Inquiry,Pending,374,374
+375,Product Inquiry,Closed,375,375
+376,Feedback,Closed,376,376
+377,Feedback,Resolved,377,377
+378,Product Inquiry,Pending,378,378
+379,Support Call,Escalated,379,379
+380,Feedback,Closed,380,380
+381,Feedback,Pending,381,381
+382,Support Call,Escalated,382,382
+383,Support Call,Pending,383,383
+384,Support Call,Resolved,384,384
+385,Support Call,Pending,385,385
+386,Feedback,Escalated,386,386
+387,Support Call,Pending,387,387
+388,Feedback,Resolved,388,388
+389,Feedback,Pending,389,389
+390,Product Inquiry,Resolved,390,390
+391,Product Inquiry,Resolved,391,391
+392,Product Inquiry,Resolved,392,392
+393,Feedback,Escalated,393,393
+394,Support Call,Escalated,394,394
+395,Product Inquiry,Closed,395,395
+396,Product Inquiry,Closed,396,396
+397,Feedback,Closed,397,397
+398,Support Call,Escalated,398,398
+399,Feedback,Pending,399,399
+400,Support Call,Pending,400,400
+401,Product Inquiry,Escalated,401,401
+402,Product Inquiry,Closed,402,402
+403,Product Inquiry,Closed,403,403
+404,Feedback,Escalated,404,404
+405,Support Call,Pending,405,405
+406,Support Call,Pending,406,406
+407,Feedback,Resolved,407,407
+408,Feedback,Closed,408,408
+409,Feedback,Resolved,409,409
+410,Product Inquiry,Pending,410,410
+411,Product Inquiry,Pending,411,411
+412,Support Call,Resolved,412,412
+413,Support Call,Escalated,413,413
+414,Product Inquiry,Pending,414,414
+415,Support Call,Escalated,415,415
+416,Feedback,Escalated,416,416
+417,Support Call,Resolved,417,417
+418,Product Inquiry,Resolved,418,418
+419,Feedback,Closed,419,419
+420,Product Inquiry,Resolved,420,420
+421,Feedback,Resolved,421,421
+422,Product Inquiry,Resolved,422,422
+423,Support Call,Resolved,423,423
+424,Product Inquiry,Closed,424,424
+425,Feedback,Pending,425,425
+426,Support Call,Closed,426,426
+427,Support Call,Resolved,427,427
+428,Product Inquiry,Pending,428,428
+429,Feedback,Resolved,429,429
+430,Feedback,Resolved,430,430
+431,Feedback,Closed,431,431
+432,Product Inquiry,Resolved,432,432
+433,Feedback,Closed,433,433
+434,Product Inquiry,Resolved,434,434
+435,Product Inquiry,Resolved,435,435
+436,Feedback,Resolved,436,436
+437,Support Call,Closed,437,437
+438,Feedback,Resolved,438,438
+439,Product Inquiry,Escalated,439,439
+440,Product Inquiry,Resolved,440,440
+441,Support Call,Pending,441,441
+442,Feedback,Closed,442,442
+443,Support Call,Pending,443,443
+444,Support Call,Closed,444,444
+445,Support Call,Escalated,445,445
+446,Support Call,Closed,446,446
+447,Feedback,Resolved,447,447
+448,Support Call,Resolved,448,448
+449,Support Call,Resolved,449,449
+450,Feedback,Pending,450,450
+451,Support Call,Resolved,451,451
+452,Feedback,Resolved,452,452
+453,Support Call,Closed,453,453
+454,Support Call,Closed,454,454
+455,Support Call,Escalated,455,455
+456,Product Inquiry,Closed,456,456
+457,Feedback,Escalated,457,457
+458,Support Call,Closed,458,458
+459,Product Inquiry,Closed,459,459
+460,Support Call,Resolved,460,460
+461,Support Call,Resolved,461,461
+462,Support Call,Resolved,462,462
+463,Product Inquiry,Pending,463,463
+464,Support Call,Pending,464,464
+465,Product Inquiry,Escalated,465,465
+466,Support Call,Pending,466,466
+467,Support Call,Closed,467,467
+468,Product Inquiry,Pending,468,468
+469,Support Call,Resolved,469,469
+470,Support Call,Escalated,470,470
+471,Feedback,Closed,471,471
+472,Product Inquiry,Resolved,472,472
+473,Product Inquiry,Closed,473,473
+474,Feedback,Pending,474,474
+475,Support Call,Resolved,475,475
+476,Feedback,Escalated,476,476
+477,Feedback,Closed,477,477
+478,Product Inquiry,Closed,478,478
+479,Product Inquiry,Escalated,479,479
+480,Product Inquiry,Escalated,480,480
+481,Support Call,Closed,481,481
+482,Product Inquiry,Escalated,482,482
+483,Product Inquiry,Pending,483,483
+484,Product Inquiry,Escalated,484,484
+485,Product Inquiry,Pending,485,485
+486,Product Inquiry,Escalated,486,486
+487,Feedback,Pending,487,487
+488,Support Call,Resolved,488,488
+489,Feedback,Escalated,489,489
+490,Product Inquiry,Resolved,490,490
+491,Feedback,Escalated,491,491
+492,Feedback,Resolved,492,492
+493,Product Inquiry,Closed,493,493
+494,Feedback,Escalated,494,494
+495,Feedback,Pending,495,495
+496,Feedback,Pending,496,496
+497,Product Inquiry,Pending,497,497
+498,Product Inquiry,Pending,498,498
+499,Support Call,Closed,499,499
+500,Support Call,Pending,500,500
+501,Support Call,Escalated,501,501
+502,Product Inquiry,Pending,502,502
+503,Product Inquiry,Escalated,503,503
+504,Product Inquiry,Resolved,504,504
+505,Product Inquiry,Closed,505,505
+506,Feedback,Resolved,506,506
+507,Product Inquiry,Closed,507,507
+508,Feedback,Pending,508,508
+509,Feedback,Escalated,509,509
+510,Product Inquiry,Closed,510,510
+511,Feedback,Resolved,511,511
+512,Support Call,Closed,512,512
+513,Support Call,Closed,513,513
+514,Product Inquiry,Pending,514,514
+515,Support Call,Escalated,515,515
+516,Support Call,Resolved,516,516
+517,Support Call,Escalated,517,517
+518,Product Inquiry,Closed,518,518
+519,Feedback,Escalated,519,519
+520,Support Call,Closed,520,520
+521,Product Inquiry,Resolved,521,521
+522,Support Call,Closed,522,522
+523,Feedback,Escalated,523,523
+524,Feedback,Closed,524,524
+525,Support Call,Resolved,525,525
+526,Feedback,Escalated,526,526
+527,Feedback,Closed,527,527
+528,Support Call,Escalated,528,528
+529,Product Inquiry,Pending,529,529
+530,Feedback,Closed,530,530
+531,Feedback,Pending,531,531
+532,Support Call,Pending,532,532
+533,Product Inquiry,Escalated,533,533
+534,Support Call,Resolved,534,534
+535,Support Call,Resolved,535,535
+536,Support Call,Pending,536,536
+537,Support Call,Resolved,537,537
+538,Support Call,Escalated,538,538
+539,Feedback,Closed,539,539
+540,Support Call,Escalated,540,540
+541,Product Inquiry,Pending,541,541
+542,Product Inquiry,Resolved,542,542
+543,Support Call,Resolved,543,543
+544,Product Inquiry,Resolved,544,544
+545,Support Call,Escalated,545,545
+546,Product Inquiry,Resolved,546,546
+547,Support Call,Pending,547,547
+548,Product Inquiry,Pending,548,548
+549,Feedback,Escalated,549,549
+550,Support Call,Resolved,550,550
+551,Product Inquiry,Escalated,551,551
+552,Feedback,Resolved,552,552
+553,Product Inquiry,Closed,553,553
+554,Support Call,Pending,554,554
+555,Support Call,Closed,555,555
+556,Support Call,Pending,556,556
+557,Feedback,Escalated,557,557
+558,Support Call,Escalated,558,558
+559,Feedback,Pending,559,559
+560,Product Inquiry,Resolved,560,560
+561,Support Call,Resolved,561,561
+562,Support Call,Pending,562,562
+563,Support Call,Resolved,563,563
+564,Product Inquiry,Escalated,564,564
+565,Feedback,Pending,565,565
+566,Support Call,Closed,566,566
+567,Feedback,Escalated,567,567
+568,Support Call,Pending,568,568
+569,Feedback,Pending,569,569
+570,Feedback,Resolved,570,570
+571,Product Inquiry,Escalated,571,571
+572,Product Inquiry,Closed,572,572
+573,Support Call,Escalated,573,573
+574,Support Call,Pending,574,574
+575,Feedback,Resolved,575,575
+576,Support Call,Closed,576,576
+577,Feedback,Closed,577,577
+578,Product Inquiry,Pending,578,578
+579,Feedback,Escalated,579,579
+580,Product Inquiry,Closed,580,580
+581,Feedback,Closed,581,581
+582,Support Call,Resolved,582,582
+583,Support Call,Resolved,583,583
+584,Support Call,Closed,584,584
+585,Feedback,Resolved,585,585
+586,Feedback,Pending,586,586
+587,Support Call,Resolved,587,587
+588,Feedback,Resolved,588,588
+589,Support Call,Closed,589,589
+590,Product Inquiry,Closed,590,590
+591,Feedback,Closed,591,591
+592,Feedback,Resolved,592,592
+593,Feedback,Closed,593,593
+594,Support Call,Closed,594,594
+595,Product Inquiry,Closed,595,595
+596,Product Inquiry,Escalated,596,596
+597,Support Call,Escalated,597,597
+598,Support Call,Pending,598,598
+599,Product Inquiry,Resolved,599,599
+600,Product Inquiry,Closed,600,600
+601,Feedback,Resolved,601,601
+602,Product Inquiry,Closed,602,602
+603,Feedback,Pending,603,603
+604,Support Call,Escalated,604,604
+605,Feedback,Escalated,605,605
+606,Product Inquiry,Escalated,606,606
+607,Feedback,Resolved,607,607
+608,Feedback,Escalated,608,608
+609,Support Call,Escalated,609,609
+610,Support Call,Pending,610,610
+611,Product Inquiry,Resolved,611,611
+612,Feedback,Resolved,612,612
+613,Feedback,Pending,613,613
+614,Support Call,Closed,614,614
+615,Feedback,Closed,615,615
+616,Support Call,Closed,616,616
+617,Feedback,Resolved,617,617
+618,Feedback,Escalated,618,618
+619,Feedback,Pending,619,619
+620,Support Call,Resolved,620,620
+621,Support Call,Resolved,621,621
+622,Feedback,Resolved,622,622
+623,Feedback,Escalated,623,623
+624,Product Inquiry,Closed,624,624
+625,Feedback,Pending,625,625
+626,Feedback,Escalated,626,626
+627,Product Inquiry,Closed,627,627
+628,Support Call,Closed,628,628
+629,Feedback,Resolved,629,629
+630,Support Call,Escalated,630,630
+631,Support Call,Pending,631,631
+632,Feedback,Resolved,632,632
+633,Feedback,Closed,633,633
+634,Support Call,Escalated,634,634
+635,Feedback,Escalated,635,635
+636,Feedback,Resolved,636,636
+637,Feedback,Pending,637,637
+638,Feedback,Pending,638,638
+639,Feedback,Pending,639,639
+640,Feedback,Escalated,640,640
+641,Product Inquiry,Escalated,641,641
+642,Feedback,Closed,642,642
+643,Product Inquiry,Resolved,643,643
+644,Support Call,Closed,644,644
+645,Support Call,Escalated,645,645
+646,Feedback,Pending,646,646
+647,Support Call,Closed,647,647
+648,Feedback,Closed,648,648
+649,Support Call,Resolved,649,649
+650,Support Call,Resolved,650,650
+651,Feedback,Escalated,651,651
+652,Feedback,Resolved,652,652
+653,Product Inquiry,Resolved,653,653
+654,Feedback,Resolved,654,654
+655,Product Inquiry,Resolved,655,655
+656,Product Inquiry,Escalated,656,656
+657,Feedback,Resolved,657,657
+658,Support Call,Pending,658,658
+659,Feedback,Resolved,659,659
+660,Feedback,Resolved,660,660
+661,Feedback,Escalated,661,661
+662,Support Call,Resolved,662,662
+663,Product Inquiry,Pending,663,663
+664,Product Inquiry,Closed,664,664
+665,Product Inquiry,Escalated,665,665
+666,Feedback,Resolved,666,666
+667,Product Inquiry,Resolved,667,667
+668,Feedback,Resolved,668,668
+669,Feedback,Closed,669,669
+670,Feedback,Closed,670,670
+671,Feedback,Pending,671,671
+672,Support Call,Resolved,672,672
+673,Feedback,Closed,673,673
+674,Feedback,Escalated,674,674
+675,Feedback,Closed,675,675
+676,Feedback,Pending,676,676
+677,Product Inquiry,Closed,677,677
+678,Product Inquiry,Escalated,678,678
+679,Product Inquiry,Pending,679,679
+680,Support Call,Closed,680,680
+681,Support Call,Resolved,681,681
+682,Feedback,Pending,682,682
+683,Product Inquiry,Escalated,683,683
+684,Support Call,Resolved,684,684
+685,Support Call,Closed,685,685
+686,Feedback,Closed,686,686
+687,Feedback,Closed,687,687
+688,Product Inquiry,Closed,688,688
+689,Support Call,Resolved,689,689
+690,Feedback,Resolved,690,690
+691,Product Inquiry,Closed,691,691
+692,Feedback,Closed,692,692
+693,Product Inquiry,Escalated,693,693
+694,Product Inquiry,Escalated,694,694
+695,Product Inquiry,Escalated,695,695
+696,Feedback,Pending,696,696
+697,Product Inquiry,Escalated,697,697
+698,Support Call,Escalated,698,698
+699,Support Call,Escalated,699,699
+700,Product Inquiry,Resolved,700,700
+701,Support Call,Resolved,701,701
+702,Feedback,Resolved,702,702
+703,Product Inquiry,Closed,703,703
+704,Product Inquiry,Closed,704,704
+705,Support Call,Closed,705,705
+706,Support Call,Escalated,706,706
+707,Feedback,Resolved,707,707
+708,Support Call,Resolved,708,708
+709,Product Inquiry,Pending,709,709
+710,Product Inquiry,Closed,710,710
+711,Support Call,Escalated,711,711
+712,Support Call,Pending,712,712
+713,Support Call,Pending,713,713
+714,Support Call,Pending,714,714
+715,Support Call,Resolved,715,715
+716,Product Inquiry,Pending,716,716
+717,Support Call,Closed,717,717
+718,Support Call,Pending,718,718
+719,Product Inquiry,Closed,719,719
+720,Support Call,Pending,720,720
+721,Feedback,Pending,721,721
+722,Product Inquiry,Closed,722,722
+723,Support Call,Pending,723,723
+724,Support Call,Pending,724,724
+725,Support Call,Escalated,725,725
+726,Feedback,Escalated,726,726
+727,Support Call,Closed,727,727
+728,Feedback,Closed,728,728
+729,Feedback,Resolved,729,729
+730,Product Inquiry,Pending,730,730
+731,Feedback,Pending,731,731
+732,Support Call,Pending,732,732
+733,Product Inquiry,Escalated,733,733
+734,Support Call,Resolved,734,734
+735,Feedback,Closed,735,735
+736,Support Call,Closed,736,736
+737,Product Inquiry,Pending,737,737
+738,Product Inquiry,Resolved,738,738
+739,Support Call,Resolved,739,739
+740,Product Inquiry,Pending,740,740
+741,Feedback,Pending,741,741
+742,Feedback,Resolved,742,742
+743,Product Inquiry,Pending,743,743
+744,Support Call,Escalated,744,744
+745,Feedback,Pending,745,745
+746,Product Inquiry,Closed,746,746
+747,Product Inquiry,Escalated,747,747
+748,Support Call,Resolved,748,748
+749,Product Inquiry,Pending,749,749
+750,Feedback,Resolved,750,750
+751,Feedback,Closed,751,751
+752,Product Inquiry,Pending,752,752
+753,Feedback,Pending,753,753
+754,Feedback,Escalated,754,754
+755,Support Call,Resolved,755,755
+756,Feedback,Pending,756,756
+757,Support Call,Resolved,757,757
+758,Support Call,Resolved,758,758
+759,Support Call,Escalated,759,759
+760,Support Call,Pending,760,760
+761,Product Inquiry,Closed,761,761
+762,Product Inquiry,Escalated,762,762
+763,Feedback,Escalated,763,763
+764,Product Inquiry,Closed,764,764
+765,Support Call,Resolved,765,765
+766,Feedback,Pending,766,766
+767,Support Call,Closed,767,767
+768,Feedback,Pending,768,768
+769,Product Inquiry,Escalated,769,769
+770,Product Inquiry,Resolved,770,770
+771,Feedback,Closed,771,771
+772,Support Call,Escalated,772,772
+773,Support Call,Closed,773,773
+774,Support Call,Escalated,774,774
+775,Support Call,Escalated,775,775
+776,Product Inquiry,Escalated,776,776
+777,Product Inquiry,Closed,777,777
+778,Support Call,Resolved,778,778
+779,Support Call,Resolved,779,779
+780,Product Inquiry,Resolved,780,780
+781,Support Call,Resolved,781,781
+782,Product Inquiry,Resolved,782,782
+783,Feedback,Resolved,783,783
+784,Support Call,Pending,784,784
+785,Support Call,Pending,785,785
+786,Product Inquiry,Escalated,786,786
+787,Support Call,Resolved,787,787
+788,Feedback,Resolved,788,788
+789,Support Call,Resolved,789,789
+790,Product Inquiry,Resolved,790,790
+791,Feedback,Resolved,791,791
+792,Support Call,Escalated,792,792
+793,Feedback,Pending,793,793
+794,Feedback,Resolved,794,794
+795,Support Call,Escalated,795,795
+796,Support Call,Escalated,796,796
+797,Product Inquiry,Closed,797,797
+798,Support Call,Escalated,798,798
+799,Product Inquiry,Resolved,799,799
+800,Feedback,Pending,800,800
+801,Product Inquiry,Closed,801,801
+802,Support Call,Closed,802,802
+803,Product Inquiry,Escalated,803,803
+804,Feedback,Resolved,804,804
+805,Support Call,Pending,805,805
+806,Support Call,Escalated,806,806
+807,Product Inquiry,Escalated,807,807
+808,Feedback,Pending,808,808
+809,Product Inquiry,Resolved,809,809
+810,Support Call,Closed,810,810
+811,Support Call,Pending,811,811
+812,Feedback,Resolved,812,812
+813,Support Call,Closed,813,813
+814,Support Call,Pending,814,814
+815,Feedback,Escalated,815,815
+816,Support Call,Escalated,816,816
+817,Support Call,Pending,817,817
+818,Feedback,Closed,818,818
+819,Feedback,Pending,819,819
+820,Product Inquiry,Escalated,820,820
+821,Feedback,Closed,821,821
+822,Feedback,Closed,822,822
+823,Feedback,Pending,823,823
+824,Support Call,Pending,824,824
+825,Product Inquiry,Resolved,825,825
+826,Product Inquiry,Escalated,826,826
+827,Product Inquiry,Escalated,827,827
+828,Feedback,Pending,828,828
+829,Product Inquiry,Pending,829,829
+830,Support Call,Closed,830,830
+831,Support Call,Pending,831,831
+832,Feedback,Escalated,832,832
+833,Product Inquiry,Resolved,833,833
+834,Product Inquiry,Pending,834,834
+835,Support Call,Resolved,835,835
+836,Feedback,Closed,836,836
+837,Product Inquiry,Pending,837,837
+838,Support Call,Pending,838,838
+839,Product Inquiry,Closed,839,839
+840,Product Inquiry,Escalated,840,840
+841,Feedback,Closed,841,841
+842,Product Inquiry,Escalated,842,842
+843,Feedback,Escalated,843,843
+844,Product Inquiry,Pending,844,844
+845,Feedback,Pending,845,845
+846,Feedback,Closed,846,846
+847,Product Inquiry,Pending,847,847
+848,Feedback,Escalated,848,848
+849,Support Call,Resolved,849,849
+850,Feedback,Pending,850,850
+851,Product Inquiry,Escalated,851,851
+852,Product Inquiry,Pending,852,852
+853,Product Inquiry,Escalated,853,853
+854,Support Call,Resolved,854,854
+855,Feedback,Escalated,855,855
+856,Product Inquiry,Pending,856,856
+857,Feedback,Pending,857,857
+858,Feedback,Resolved,858,858
+859,Support Call,Pending,859,859
+860,Product Inquiry,Closed,860,860
+861,Product Inquiry,Closed,861,861
+862,Feedback,Resolved,862,862
+863,Support Call,Closed,863,863
+864,Product Inquiry,Escalated,864,864
+865,Product Inquiry,Closed,865,865
+866,Product Inquiry,Resolved,866,866
+867,Feedback,Escalated,867,867
+868,Support Call,Pending,868,868
+869,Support Call,Closed,869,869
+870,Feedback,Escalated,870,870
+871,Product Inquiry,Pending,871,871
+872,Support Call,Resolved,872,872
+873,Product Inquiry,Pending,873,873
+874,Feedback,Closed,874,874
+875,Feedback,Closed,875,875
+876,Feedback,Pending,876,876
+877,Support Call,Escalated,877,877
+878,Feedback,Closed,878,878
+879,Product Inquiry,Closed,879,879
+880,Support Call,Closed,880,880
+881,Support Call,Pending,881,881
+882,Support Call,Resolved,882,882
+883,Support Call,Escalated,883,883
+884,Product Inquiry,Closed,884,884
+885,Support Call,Escalated,885,885
+886,Feedback,Closed,886,886
+887,Product Inquiry,Pending,887,887
+888,Feedback,Escalated,888,888
+889,Support Call,Resolved,889,889
+890,Feedback,Pending,890,890
+891,Product Inquiry,Pending,891,891
+892,Feedback,Closed,892,892
+893,Feedback,Escalated,893,893
+894,Product Inquiry,Escalated,894,894
+895,Feedback,Pending,895,895
+896,Support Call,Closed,896,896
+897,Feedback,Resolved,897,897
+898,Feedback,Closed,898,898
+899,Support Call,Pending,899,899
+900,Support Call,Escalated,900,900
+901,Product Inquiry,Escalated,901,901
+902,Product Inquiry,Resolved,902,902
+903,Product Inquiry,Closed,903,903
+904,Product Inquiry,Pending,904,904
+905,Support Call,Closed,905,905
+906,Product Inquiry,Resolved,906,906
+907,Feedback,Closed,907,907
+908,Feedback,Escalated,908,908
+909,Feedback,Closed,909,909
+910,Support Call,Resolved,910,910
+911,Support Call,Resolved,911,911
+912,Product Inquiry,Pending,912,912
+913,Product Inquiry,Pending,913,913
+914,Product Inquiry,Escalated,914,914
+915,Product Inquiry,Escalated,915,915
+916,Feedback,Escalated,916,916
+917,Support Call,Closed,917,917
+918,Support Call,Escalated,918,918
+919,Feedback,Resolved,919,919
+920,Support Call,Closed,920,920
+921,Feedback,Resolved,921,921
+922,Product Inquiry,Escalated,922,922
+923,Product Inquiry,Resolved,923,923
+924,Feedback,Escalated,924,924
+925,Feedback,Escalated,925,925
+926,Feedback,Pending,926,926
+927,Support Call,Resolved,927,927
+928,Support Call,Pending,928,928
+929,Support Call,Resolved,929,929
+930,Support Call,Resolved,930,930
+931,Product Inquiry,Pending,931,931
+932,Product Inquiry,Resolved,932,932
+933,Support Call,Resolved,933,933
+934,Feedback,Escalated,934,934
+935,Product Inquiry,Closed,935,935
+936,Product Inquiry,Pending,936,936
+937,Feedback,Closed,937,937
+938,Product Inquiry,Closed,938,938
+939,Product Inquiry,Pending,939,939
+940,Support Call,Resolved,940,940
+941,Product Inquiry,Resolved,941,941
+942,Feedback,Closed,942,942
+943,Feedback,Pending,943,943
+944,Product Inquiry,Closed,944,944
+945,Product Inquiry,Resolved,945,945
+946,Product Inquiry,Pending,946,946
+947,Support Call,Closed,947,947
+948,Support Call,Escalated,948,948
+949,Product Inquiry,Pending,949,949
+950,Feedback,Closed,950,950
+951,Product Inquiry,Escalated,951,951
+952,Support Call,Resolved,952,952
+953,Support Call,Escalated,953,953
+954,Product Inquiry,Pending,954,954
+955,Feedback,Resolved,955,955
+956,Support Call,Escalated,956,956
+957,Product Inquiry,Resolved,957,957
+958,Support Call,Escalated,958,958
+959,Product Inquiry,Resolved,959,959
+960,Product Inquiry,Pending,960,960
+961,Support Call,Closed,961,961
+962,Support Call,Pending,962,962
+963,Support Call,Closed,963,963
+964,Feedback,Resolved,964,964
+965,Support Call,Closed,965,965
+966,Support Call,Closed,966,966
+967,Feedback,Pending,967,967
+968,Feedback,Pending,968,968
+969,Support Call,Resolved,969,969
+970,Product Inquiry,Resolved,970,970
+971,Product Inquiry,Escalated,971,971
+972,Support Call,Pending,972,972
+973,Product Inquiry,Escalated,973,973
+974,Feedback,Escalated,974,974
+975,Feedback,Resolved,975,975
+976,Feedback,Closed,976,976
+977,Support Call,Escalated,977,977
+978,Feedback,Resolved,978,978
+979,Support Call,Resolved,979,979
+980,Support Call,Closed,980,980
+981,Feedback,Closed,981,981
+982,Feedback,Resolved,982,982
+983,Product Inquiry,Resolved,983,983
+984,Feedback,Closed,984,984
+985,Product Inquiry,Closed,985,985
+986,Feedback,Escalated,986,986
+987,Feedback,Pending,987,987
+988,Feedback,Escalated,988,988
+989,Product Inquiry,Closed,989,989
+990,Product Inquiry,Resolved,990,990
+991,Support Call,Pending,991,991
+992,Feedback,Escalated,992,992
+993,Support Call,Resolved,993,993
+994,Feedback,Pending,994,994
+995,Feedback,Escalated,995,995
+996,Product Inquiry,Escalated,996,996
+997,Product Inquiry,Pending,997,997
+998,Support Call,Resolved,998,998
+999,Feedback,Escalated,999,999
+1000,Support Call,Escalated,1000,1000
+1001,Support Call,Resolved,1001,1001
+1002,Feedback,Resolved,1002,1002
+1003,Feedback,Resolved,1003,1003
+1004,Product Inquiry,Escalated,1004,1004
+1005,Product Inquiry,Resolved,1005,1005
+1006,Product Inquiry,Closed,1006,1006
+1007,Product Inquiry,Resolved,1007,1007
+1008,Feedback,Escalated,1008,1008
+1009,Feedback,Resolved,1009,1009
+1010,Feedback,Resolved,1010,1010
+1011,Support Call,Closed,1011,1011
+1012,Feedback,Closed,1012,1012
+1013,Feedback,Pending,1013,1013
+1014,Feedback,Closed,1014,1014
+1015,Feedback,Escalated,1015,1015
+1016,Feedback,Escalated,1016,1016
+1017,Support Call,Closed,1017,1017
+1018,Product Inquiry,Escalated,1018,1018
+1019,Product Inquiry,Closed,1019,1019
+1020,Feedback,Closed,1020,1020
+1021,Support Call,Closed,1021,1021
+1022,Support Call,Closed,1022,1022
+1023,Product Inquiry,Resolved,1023,1023
+1024,Feedback,Closed,1024,1024
+1025,Support Call,Pending,1025,1025
+1026,Support Call,Closed,1026,1026
+1027,Product Inquiry,Resolved,1027,1027
+1028,Product Inquiry,Escalated,1028,1028
+1029,Product Inquiry,Resolved,1029,1029
+1030,Product Inquiry,Escalated,1030,1030
+1031,Feedback,Pending,1031,1031
+1032,Support Call,Pending,1032,1032
+1033,Support Call,Escalated,1033,1033
+1034,Feedback,Resolved,1034,1034
+1035,Feedback,Closed,1035,1035
+1036,Support Call,Escalated,1036,1036
+1037,Product Inquiry,Escalated,1037,1037
+1038,Support Call,Resolved,1038,1038
+1039,Product Inquiry,Closed,1039,1039
+1040,Product Inquiry,Pending,1040,1040
+1041,Product Inquiry,Escalated,1041,1041
+1042,Support Call,Resolved,1042,1042
+1043,Feedback,Closed,1043,1043
+1044,Support Call,Pending,1044,1044
+1045,Product Inquiry,Closed,1045,1045
+1046,Support Call,Closed,1046,1046
+1047,Support Call,Resolved,1047,1047
+1048,Support Call,Resolved,1048,1048
+1049,Product Inquiry,Pending,1049,1049
+1050,Support Call,Resolved,1050,1050
+1051,Product Inquiry,Resolved,1051,1051
+1052,Feedback,Pending,1052,1052
+1053,Support Call,Pending,1053,1053
+1054,Feedback,Resolved,1054,1054
+1055,Product Inquiry,Closed,1055,1055
+1056,Product Inquiry,Escalated,1056,1056
+1057,Product Inquiry,Closed,1057,1057
+1058,Product Inquiry,Escalated,1058,1058
+1059,Product Inquiry,Resolved,1059,1059
+1060,Support Call,Pending,1060,1060
+1061,Support Call,Closed,1061,1061
+1062,Support Call,Escalated,1062,1062
+1063,Support Call,Closed,1063,1063
+1064,Support Call,Escalated,1064,1064
+1065,Product Inquiry,Pending,1065,1065
+1066,Feedback,Escalated,1066,1066
+1067,Feedback,Escalated,1067,1067
+1068,Support Call,Pending,1068,1068
+1069,Feedback,Resolved,1069,1069
+1070,Feedback,Resolved,1070,1070
+1071,Support Call,Pending,1071,1071
+1072,Support Call,Resolved,1072,1072
+1073,Product Inquiry,Escalated,1073,1073
+1074,Feedback,Closed,1074,1074
+1075,Support Call,Pending,1075,1075
+1076,Feedback,Pending,1076,1076
+1077,Support Call,Escalated,1077,1077
+1078,Support Call,Pending,1078,1078
+1079,Product Inquiry,Escalated,1079,1079
+1080,Support Call,Escalated,1080,1080
+1081,Support Call,Escalated,1081,1081
+1082,Product Inquiry,Pending,1082,1082
+1083,Support Call,Escalated,1083,1083
+1084,Product Inquiry,Closed,1084,1084
+1085,Product Inquiry,Pending,1085,1085
+1086,Product Inquiry,Escalated,1086,1086
+1087,Support Call,Closed,1087,1087
+1088,Feedback,Resolved,1088,1088
+1089,Support Call,Pending,1089,1089
+1090,Product Inquiry,Resolved,1090,1090
+1091,Feedback,Resolved,1091,1091
+1092,Product Inquiry,Resolved,1092,1092
+1093,Feedback,Pending,1093,1093
+1094,Feedback,Pending,1094,1094
+1095,Feedback,Closed,1095,1095
+1096,Support Call,Resolved,1096,1096
+1097,Support Call,Closed,1097,1097
+1098,Feedback,Escalated,1098,1098
+1099,Support Call,Closed,1099,1099
+1100,Product Inquiry,Escalated,1100,1100
+1101,Product Inquiry,Escalated,1101,1101
+1102,Product Inquiry,Closed,1102,1102
+1103,Product Inquiry,Pending,1103,1103
+1104,Support Call,Resolved,1104,1104
+1105,Support Call,Closed,1105,1105
+1106,Support Call,Pending,1106,1106
+1107,Feedback,Escalated,1107,1107
+1108,Product Inquiry,Pending,1108,1108
+1109,Support Call,Escalated,1109,1109
+1110,Product Inquiry,Closed,1110,1110
+1111,Feedback,Escalated,1111,1111
+1112,Feedback,Escalated,1112,1112
+1113,Feedback,Escalated,1113,1113
+1114,Feedback,Resolved,1114,1114
+1115,Support Call,Closed,1115,1115
+1116,Feedback,Closed,1116,1116
+1117,Support Call,Pending,1117,1117
+1118,Product Inquiry,Resolved,1118,1118
+1119,Support Call,Pending,1119,1119
+1120,Product Inquiry,Pending,1120,1120
+1121,Support Call,Pending,1121,1121
+1122,Feedback,Escalated,1122,1122
+1123,Product Inquiry,Resolved,1123,1123
+1124,Support Call,Escalated,1124,1124
+1125,Product Inquiry,Resolved,1125,1125
+1126,Support Call,Resolved,1126,1126
+1127,Support Call,Resolved,1127,1127
+1128,Product Inquiry,Pending,1128,1128
+1129,Feedback,Resolved,1129,1129
+1130,Support Call,Pending,1130,1130
+1131,Support Call,Closed,1131,1131
+1132,Support Call,Escalated,1132,1132
+1133,Support Call,Escalated,1133,1133
+1134,Product Inquiry,Pending,1134,1134
+1135,Support Call,Pending,1135,1135
+1136,Support Call,Resolved,1136,1136
+1137,Support Call,Escalated,1137,1137
+1138,Product Inquiry,Escalated,1138,1138
+1139,Feedback,Escalated,1139,1139
+1140,Product Inquiry,Closed,1140,1140
+1141,Feedback,Pending,1141,1141
+1142,Support Call,Closed,1142,1142
+1143,Feedback,Closed,1143,1143
+1144,Support Call,Pending,1144,1144
+1145,Feedback,Resolved,1145,1145
+1146,Feedback,Pending,1146,1146
+1147,Support Call,Resolved,1147,1147
+1148,Support Call,Resolved,1148,1148
+1149,Feedback,Pending,1149,1149
+1150,Feedback,Pending,1150,1150
+1151,Support Call,Closed,1151,1151
+1152,Product Inquiry,Escalated,1152,1152
+1153,Product Inquiry,Pending,1153,1153
+1154,Support Call,Pending,1154,1154
+1155,Product Inquiry,Pending,1155,1155
+1156,Product Inquiry,Resolved,1156,1156
+1157,Feedback,Escalated,1157,1157
+1158,Product Inquiry,Pending,1158,1158
+1159,Product Inquiry,Escalated,1159,1159
+1160,Support Call,Closed,1160,1160
+1161,Feedback,Resolved,1161,1161
+1162,Product Inquiry,Closed,1162,1162
+1163,Feedback,Escalated,1163,1163
+1164,Product Inquiry,Escalated,1164,1164
+1165,Support Call,Closed,1165,1165
+1166,Support Call,Resolved,1166,1166
+1167,Product Inquiry,Escalated,1167,1167
+1168,Support Call,Pending,1168,1168
+1169,Feedback,Pending,1169,1169
+1170,Feedback,Resolved,1170,1170
+1171,Product Inquiry,Pending,1171,1171
+1172,Feedback,Escalated,1172,1172
+1173,Support Call,Escalated,1173,1173
+1174,Support Call,Pending,1174,1174
+1175,Support Call,Closed,1175,1175
+1176,Product Inquiry,Resolved,1176,1176
+1177,Support Call,Closed,1177,1177
+1178,Product Inquiry,Resolved,1178,1178
+1179,Support Call,Closed,1179,1179
+1180,Product Inquiry,Escalated,1180,1180
+1181,Feedback,Resolved,1181,1181
+1182,Product Inquiry,Resolved,1182,1182
+1183,Product Inquiry,Pending,1183,1183
+1184,Product Inquiry,Escalated,1184,1184
+1185,Support Call,Escalated,1185,1185
+1186,Support Call,Closed,1186,1186
+1187,Product Inquiry,Pending,1187,1187
+1188,Support Call,Resolved,1188,1188
+1189,Product Inquiry,Resolved,1189,1189
+1190,Support Call,Resolved,1190,1190
+1191,Support Call,Escalated,1191,1191
+1192,Support Call,Pending,1192,1192
+1193,Feedback,Pending,1193,1193
+1194,Feedback,Escalated,1194,1194
+1195,Product Inquiry,Pending,1195,1195
+1196,Support Call,Escalated,1196,1196
+1197,Feedback,Closed,1197,1197
+1198,Product Inquiry,Resolved,1198,1198
+1199,Support Call,Closed,1199,1199
+1200,Product Inquiry,Closed,1200,1200
